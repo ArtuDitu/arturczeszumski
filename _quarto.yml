@@ -17,7 +17,7 @@ project:
 
 website:
   title: "Artur Czeszumski, PhD"
-  site-url: "https://ArtuDitu.github.io/WebPage_Artur"
+  site-url: "https://artuditu.github.io/arturczeszumski"
   favicon: assets/network.svg
   navbar:
     pinned: true

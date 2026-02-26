@@ -6,9 +6,9 @@ format:
   html:
     include-in-header:
       text: |
-        <link rel="canonical" href="https://ArtuDitu.github.io/WebPage_Artur/pl/o-mnie/">
-        <link rel="alternate" hreflang="en" href="https://ArtuDitu.github.io/WebPage_Artur/about/">
-        <link rel="alternate" hreflang="pl" href="https://ArtuDitu.github.io/WebPage_Artur/pl/o-mnie/">
+        <link rel="canonical" href="https://artuditu.github.io/arturczeszumski/pl/o-mnie/">
+        <link rel="alternate" hreflang="en" href="https://artuditu.github.io/arturczeszumski/about/">
+        <link rel="alternate" hreflang="pl" href="https://artuditu.github.io/arturczeszumski/pl/o-mnie/">
 ---
 
 ## Bio {.section-title .reveal}

@@ -1,1 +1,1 @@
-Sitemap: https://ArtuDitu.github.io/WebPage_Artur/sitemap.xml
+Sitemap: https://artuditu.github.io/arturczeszumski/sitemap.xml

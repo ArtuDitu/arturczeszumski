@@ -6,9 +6,9 @@ format:
   html:
     include-in-header:
       text: |
-        <link rel="canonical" href="https://ArtuDitu.github.io/WebPage_Artur/">
-        <link rel="alternate" hreflang="en" href="https://ArtuDitu.github.io/WebPage_Artur/">
-        <link rel="alternate" hreflang="pl" href="https://ArtuDitu.github.io/WebPage_Artur/pl/">
+        <link rel="canonical" href="https://artuditu.github.io/arturczeszumski/">
+        <link rel="alternate" hreflang="en" href="https://artuditu.github.io/arturczeszumski/">
+        <link rel="alternate" hreflang="pl" href="https://artuditu.github.io/arturczeszumski/pl/">
 ---
 
 ::: {.hero-card .reveal}
