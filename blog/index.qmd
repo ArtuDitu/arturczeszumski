@@ -1,0 +1,43 @@
+---
+title: "Blog"
+lang: en
+page-layout: full
+format:
+  html:
+    include-in-header:
+      text: |
+        <link rel="canonical" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/blog/">
+        <link rel="alternate" hreflang="en" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/blog/">
+        <link rel="alternate" hreflang="pl" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/blog/">
+---
+
+## Notes and Analysis {.section-title .reveal}
+
+<div class="soft-card reveal">
+  <label for="blog-filter"><strong>Search or filter by tag</strong></label>
+  <input id="blog-filter" type="search" placeholder="e.g. modelling, cognition, football" style="width:100%; margin-top:0.6rem; border-radius:0.8rem; border:1px solid #c6cfd7; padding:0.55rem 0.75rem;" />
+</div>
+
+<div class="blog-grid" id="blog-grid">
+  <article class="blog-card reveal" data-tags="cognition football plotly">
+    <div class="blog-meta">[DATE] · Tags: cognition, football, plotly</div>
+    <h3><a href="post-1/">Sample: Visualizing cognitive load trends</a></h3>
+    <p>[Placeholder excerpt for a bilingual post that includes a lightweight interactive Plotly chart.]</p>
+  </article>
+</div>
+
+<script>
+(() => {
+  const input = document.getElementById('blog-filter');
+  const cards = Array.from(document.querySelectorAll('#blog-grid .blog-card'));
+  if (!input || cards.length === 0) return;
+
+  input.addEventListener('input', () => {
+    const query = input.value.trim().toLowerCase();
+    cards.forEach((card) => {
+      const text = (card.textContent + ' ' + card.dataset.tags).toLowerCase();
+      card.style.display = !query || text.includes(query) ? '' : 'none';
+    });
+  });
+})();
+</script>

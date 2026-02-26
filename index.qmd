@@ -1,0 +1,68 @@
+---
+title: ""
+lang: en
+page-layout: full
+format:
+  html:
+    include-in-header:
+      text: |
+        <link rel="canonical" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/">
+        <link rel="alternate" hreflang="en" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/">
+        <link rel="alternate" hreflang="pl" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/">
+---
+
+::: {.hero-card .reveal}
+::: {.hero-content}
+<span class="eyebrow">Cognitive Neuroscience · Professional Football</span>
+# Artur Czeszumski, PhD
+
+<div class="positioning">Cognitive Neuroscientist meets Football</div>
+
+Artur Czeszumski, PhD, is a cognitive neuroscientist and data scientist specialising in the measurement and computational modelling of human cognition. He currently works as a data scientist in football club and serves as a lecturer at the University of Warsaw. His work combines cognitive neuroscience and data science to investigate cognitive and perceptual mechanisms underlying football talent development.
+
+<a class="icon-btn" href="about.qmd" aria-label="Read full biography">Read full bio</a>
+:::
+:::
+
+## Open to collaboration {.section-title .reveal}
+
+::: {.soft-card .reveal}
+- Consulting / applied research in football
+- Data Science (infrastructure, analysis, visualisation)
+- Neuroimagining methods
+- Experimental designs
+- Computational modelling
+:::
+
+## Contact {.section-title .reveal}
+
+::: {.contact-strip .reveal}
+<div>Available for projects, advisory work, and interdisciplinary collaborations.</div>
+
+<div class="contact-links">
+  <a class="icon-btn" href="mailto:aczeszum@gmail.com" aria-label="Email">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 6h16v12H4z"/><path d="m4 7 8 6 8-6"/></svg>
+    Email
+  </a>
+  <a class="icon-btn" href="https://www.linkedin.com/in/dr-artur-czeszumski-88ba8994/" aria-label="LinkedIn">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M8 11v6"/><path d="M8 8v.01"/><path d="M12 17v-3.2c0-1.8 2-1.7 2 0V17"/><path d="M12 12h0"/></svg>
+    LinkedIn
+  </a>
+  <a class="icon-btn" href="https://scholar.google.com/citations?user=mcd0HH8AAAAJ&hl=en" aria-label="Google Scholar">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="m3 9 9-5 9 5-9 5-9-5Z"/><path d="M6 11v4c0 2 3 4 6 4s6-2 6-4v-4"/></svg>
+    Scholar
+  </a>
+  <a class="icon-btn" href="https://github.com/ArtuDitu" aria-label="GitHub">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M9 19c-4.5 1.4-4.5-2.5-6-3m12 6v-3.5a3 3 0 0 0-.8-2.1c2.6-.3 5.3-1.3 5.3-5.9a4.6 4.6 0 0 0-1.3-3.2 4.3 4.3 0 0 0-.1-3.2s-1-.3-3.3 1.3a11.5 11.5 0 0 0-6 0C6.5 3.8 5.5 4 5.5 4a4.3 4.3 0 0 0-.1 3.2 4.6 4.6 0 0 0-1.3 3.2c0 4.6 2.7 5.6 5.3 5.9A3 3 0 0 0 8.6 18.5V22"/></svg>
+    GitHub
+  </a>
+  <a class="icon-btn" href="https://bsky.app/profile/arturczeszumski.bsky.social" aria-label="BlueSky">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 7c2 1.5 3.2 3.2 6 7 2.8-3.8 4-5.5 6-7"/><path d="M6.5 16.5c1.5.8 2.8.7 5.5-.6 2.7 1.3 4 .4 5.5-.6"/><path d="M7.5 10.5c-1 2.4-.5 4.8 2.5 6"/><path d="M16.5 10.5c1 2.4.5 4.8-2.5 6"/></svg>
+    BlueSky
+  </a>
+  <a class="icon-btn" href="https://x.com/aczeszum" aria-label="X">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 5l14 14"/><path d="M19 5 5 19"/></svg>
+    X
+  </a>
+</div>
+:::

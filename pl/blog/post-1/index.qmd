@@ -1,0 +1,46 @@
+---
+title: "Przykładowy wpis: Sygnały poznawcze i kontekst meczu"
+lang: pl
+categories: [analityka piłkarska, neuronauka poznawcza]
+tags: [poznanie, modelowanie, plotly]
+date: "2026-02-26"
+page-layout: full
+format:
+  html:
+    include-in-header:
+      text: |
+        <link rel="canonical" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/blog/post-1/">
+        <link rel="alternate" hreflang="en" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/blog/post-1/">
+        <link rel="alternate" hreflang="pl" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/blog/post-1/">
+---
+
+[Placeholder wstępu. Uzupełnij tekst o praktyczny problem piłkarski i ramę neuronauki poznawczej.]
+
+## Minimalny przykład interaktywny
+
+<div class="plot-shell">
+  <div id="plotly-sample" style="height: 340px;"></div>
+</div>
+
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+<script>
+(() => {
+  const x = ['Tydzień 1', 'Tydzień 2', 'Tydzień 3', 'Tydzień 4', 'Tydzień 5'];
+  const y = [0.42, 0.48, 0.44, 0.53, 0.57];
+
+  Plotly.newPlot('plotly-sample', [{
+    x,
+    y,
+    mode: 'lines+markers',
+    line: { color: '#0f6d72', width: 2.5 },
+    marker: { color: '#00c9a7', size: 7 }
+  }], {
+    title: 'Placeholder indeksu obciążenia poznawczego',
+    margin: { l: 40, r: 20, t: 48, b: 36 },
+    paper_bgcolor: '#ffffff',
+    plot_bgcolor: '#ffffff',
+    xaxis: { title: 'Blok meczowy' },
+    yaxis: { title: 'Indeks (j.u.)' }
+  }, { displayModeBar: false, responsive: true });
+})();
+</script>

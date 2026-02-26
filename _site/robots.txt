@@ -1,0 +1,1 @@
+Sitemap: https://[GITHUB-USERNAME].github.io/[REPOSITORY]/sitemap.xml

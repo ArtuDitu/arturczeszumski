@@ -1,0 +1,41 @@
+---
+title: "Publications"
+lang: en
+page-layout: full
+format:
+  html:
+    include-in-header:
+      text: |
+        <link rel="canonical" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/publications/">
+        <link rel="alternate" hreflang="en" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/publications/">
+        <link rel="alternate" hreflang="pl" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/publikacje/">
+---
+
+## Publications {.section-title .reveal}
+
+<div id="pub-list" class="pub-list"></div>
+
+<script>
+(() => {
+  const segments = window.location.pathname.split('/').filter(Boolean);
+  const repoPrefix = window.location.hostname.endsWith('github.io') && segments[0] && segments[0] !== 'pl'
+    ? '/' + segments[0]
+    : (window.location.hostname.endsWith('github.io') && segments[1] === 'pl' ? '/' + segments[0] : '');
+
+  const script = document.createElement('script');
+  script.src = repoPrefix + '/assets/publications.js';
+  script.defer = true;
+  script.onload = () => {
+    window.initPublications({
+      containerId: 'pub-list',
+      bibUrl: repoPrefix + '/assets/publications.bib',
+      extraUrl: repoPrefix + '/assets/publications_extra.yml',
+      meToken: 'Artur Czeszumski',
+      labels: {
+        errorText: 'Could not load publications. Check assets/publications.bib and assets/publications_extra.yml.'
+      }
+    });
+  };
+  document.body.appendChild(script);
+})();
+</script>

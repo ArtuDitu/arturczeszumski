@@ -1,0 +1,171 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - about.qmd
+    - publications.qmd
+    - resume.qmd
+    - contact.qmd
+    - pl/index.qmd
+    - pl/o-mnie.qmd
+    - pl/publikacje.qmd
+    - pl/cv.qmd
+    - pl/kontakt.qmd
+  resources:
+    - assets/**
+
+website:
+  title: "Artur Czeszumski, PhD"
+  site-url: "https://[GITHUB-USERNAME].github.io/[REPOSITORY]"
+  favicon: assets/network.svg
+  navbar:
+    pinned: true
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Resume / CV
+        href: resume.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - text: EN
+        href: index.qmd
+      - text: PL
+        href: pl/index.qmd
+
+format:
+  html:
+    theme: flatly
+    css: styles.scss
+    toc: false
+    smooth-scroll: true
+    include-in-header:
+      text: |
+        <meta name="description" content="Personal website of a cognitive neuroscientist working in football analytics.">
+    include-after-body:
+      text: |
+        <script>
+          (() => {
+            const routeToHref = {
+              '/': '/',
+              '/about': '/about.html',
+              '/publications': '/publications.html',
+              '/blog': '/blog/index.html',
+              '/blog/post-1': '/blog/post-1/index.html',
+              '/resume': '/resume.html',
+              '/contact': '/contact.html',
+              '/pl': '/pl/index.html',
+              '/pl/o-mnie': '/pl/o-mnie.html',
+              '/pl/publikacje': '/pl/publikacje.html',
+              '/pl/blog': '/pl/blog/index.html',
+              '/pl/blog/post-1': '/pl/blog/post-1/index.html',
+              '/pl/cv': '/pl/cv.html',
+              '/pl/kontakt': '/pl/kontakt.html'
+            };
+
+            const enMap = {
+              home: { text: 'Home', href: '/' },
+              about: { text: 'About', href: '/about' },
+              publications: { text: 'Publications', href: '/publications' },
+              resume: { text: 'Resume / CV', href: '/resume' },
+              contact: { text: 'Contact', href: '/contact' }
+            };
+            const plMap = {
+              home: { text: 'Start', href: '/pl' },
+              about: { text: 'O mnie', href: '/pl/o-mnie' },
+              publications: { text: 'Publikacje', href: '/pl/publikacje' },
+              resume: { text: 'CV', href: '/pl/cv' },
+              contact: { text: 'Kontakt', href: '/pl/kontakt' }
+            };
+
+            const rawPath = window.location.pathname;
+            const repoPrefix = (() => {
+              const segments = rawPath.split('/').filter(Boolean);
+              const first = segments[0];
+              const knownRoots = new Set([
+                'index.html',
+                'about.html',
+                'publications.html',
+                'resume.html',
+                'contact.html',
+                'blog',
+                'pl',
+                'assets'
+              ]);
+              if (window.location.hostname.endsWith('github.io') && first && !knownRoots.has(first)) {
+                return '/' + segments[0];
+              }
+              return '';
+            })();
+            const normalizeRoute = (path) => {
+              let route = path || '/';
+              if (repoPrefix && route.startsWith(repoPrefix)) {
+                route = route.slice(repoPrefix.length) || '/';
+              }
+              route = route.replace(/\/index\.html$/, '').replace(/\.html$/, '');
+              if (!route.startsWith('/')) route = `/${route}`;
+              route = route.replace(/\/+$/, '');
+              return route || '/';
+            };
+            const buildHref = (route) => repoPrefix + (routeToHref[route] || routeToHref['/']);
+            const currentRoute = normalizeRoute(rawPath);
+            const pl = currentRoute === '/pl' || currentRoute.startsWith('/pl/');
+
+            const setLink = (selector, conf) => {
+              const node = document.querySelector(selector);
+              if (!node) return;
+              node.textContent = conf.text;
+              node.setAttribute('href', buildHref(conf.href));
+            };
+
+            const links = document.querySelectorAll('.navbar-nav.navbar-nav-scroll > li.nav-item > a.nav-link');
+            if (links.length >= 5) {
+              const map = pl ? plMap : enMap;
+              setLink('.navbar-nav.navbar-nav-scroll > li:nth-child(1) > a.nav-link', map.home);
+              setLink('.navbar-nav.navbar-nav-scroll > li:nth-child(2) > a.nav-link', map.about);
+              setLink('.navbar-nav.navbar-nav-scroll > li:nth-child(3) > a.nav-link', map.publications);
+              setLink('.navbar-nav.navbar-nav-scroll > li:nth-child(4) > a.nav-link', map.resume);
+              setLink('.navbar-nav.navbar-nav-scroll > li:nth-child(5) > a.nav-link', map.contact);
+            }
+
+            const pagePairs = {
+              '/': '/pl',
+              '/about': '/pl/o-mnie',
+              '/publications': '/pl/publikacje',
+              '/resume': '/pl/cv',
+              '/contact': '/pl/kontakt',
+              '/pl': '/',
+              '/pl/o-mnie': '/about',
+              '/pl/publikacje': '/publications',
+              '/pl/cv': '/resume',
+              '/pl/kontakt': '/contact'
+            };
+
+            const enPath = pl ? (pagePairs[currentRoute] || '/') : currentRoute;
+            const plPath = pl ? currentRoute : (pagePairs[currentRoute] || '/pl');
+
+            const right = document.querySelectorAll('.navbar-nav.navbar-nav-scroll.ms-auto a.nav-link');
+            if (right.length >= 2) {
+              right[0].textContent = 'EN';
+              right[1].textContent = 'PL';
+              right[0].setAttribute('href', buildHref(enPath));
+              right[1].setAttribute('href', buildHref(plPath));
+            }
+
+            const observer = new IntersectionObserver((entries) => {
+              entries.forEach((entry) => {
+                if (entry.isIntersecting) entry.target.classList.add('in-view');
+              });
+            }, { threshold: 0.08 });
+
+            document.querySelectorAll('.reveal').forEach((el) => observer.observe(el));
+          })();
+        </script>
+
+execute:
+  freeze: auto

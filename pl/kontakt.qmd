@@ -1,0 +1,38 @@
+---
+title: "Kontakt"
+lang: pl
+page-layout: full
+format:
+  html:
+    include-in-header:
+      text: |
+        <link rel="canonical" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/kontakt/">
+        <link rel="alternate" hreflang="en" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/contact/">
+        <link rel="alternate" hreflang="pl" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/kontakt/">
+---
+
+## Współpraca {.section-title .reveal}
+
+::: {.soft-card .reveal}
+Jeśli chcesz porozmawiać o funkcjach poznawczych w piłce nożnej, badaniach neuronaukowych lub pracy z danymi, chętnie się połączę. Jestem otwarty na współpracę i wspólne tworzenie projektów na styku nauki i praktyki.
+:::
+
+::: {.contact-strip .reveal}
+<div class="contact-links">
+  <a class="icon-btn" href="mailto:aczeszum@gmail.com" aria-label="Email">Email</a>
+  <a class="icon-btn" href="https://www.linkedin.com/in/dr-artur-czeszumski-88ba8994/" aria-label="LinkedIn">LinkedIn</a>
+  <a class="icon-btn" href="https://scholar.google.com/citations?user=mcd0HH8AAAAJ&amp;hl=en" aria-label="Google Scholar">Scholar</a>
+  <a class="icon-btn" href="https://github.com/ArtuDitu" aria-label="GitHub">GitHub</a>
+  <a class="icon-btn" href="https://bsky.app/profile/arturczeszumski.bsky.social" aria-label="BlueSky">BlueSky</a>
+  <a class="icon-btn" href="https://x.com/aczeszum" aria-label="X">X</a>
+</div>
+:::
+
+<!--
+Opcjonalny placeholder formularza statycznego (do podpięcia później):
+<form action="https://formspree.io/f/xxxxxxx" method="POST">
+  <input type="email" name="email" required>
+  <textarea name="message" required></textarea>
+  <button type="submit">Wyślij</button>
+</form>
+-->

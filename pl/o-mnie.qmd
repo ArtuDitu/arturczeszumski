@@ -1,0 +1,63 @@
+---
+title: "O mnie"
+lang: pl
+page-layout: full
+format:
+  html:
+    include-in-header:
+      text: |
+        <link rel="canonical" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/o-mnie/">
+        <link rel="alternate" hreflang="en" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/about/">
+        <link rel="alternate" hreflang="pl" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/o-mnie/">
+---
+
+## Krótkie bio {.section-title .reveal}
+
+::: {.soft-card .reveal}
+Artur Czeszumski, PhD, jest neuronaukowcem poznawczym i data scientistą, specjalizującym się w pomiarze oraz modelowaniu obliczeniowym procesów poznawczych człowieka.
+:::
+
+## Dłuższe bio {.section-title .reveal}
+
+::: {.soft-card .reveal}
+Artur Czeszumski, PhD, jest neuronaukowcem poznawczym i data scientistą, specjalizującym się w pomiarze oraz modelowaniu obliczeniowym procesów poznawczych człowieka. Ukończył wspólny doktorat z nauk kognitywnych i psychologii na Vrije Universiteit Amsterdam oraz University of Osnabrück, gdzie badał neuronalne i poznawcze mechanizmy podejmowania decyzji, interakcji społecznych oraz zachowań adaptacyjnych w dynamicznych środowiskach.
+
+Jego kompetencje łączą neuronaukę poznawczą, sztuczną inteligencję i data science, ze szczególnym naciskiem na projektowanie eksperymentów oraz ilościową analizę danych behawioralnych i neurofizjologicznych. Ma duże doświadczenie w pracy z szeregami czasowymi EEG i eye-tracking, co umożliwia obiektywny pomiar procesów neuronalnych i percepcyjnych leżących u podstaw poznania. Integruje metody eksperymentalne z modelowaniem statystycznym, uczeniem maszynowym i podejściami obliczeniowymi, aby zrozumieć, jak ludzie przetwarzają informacje, generują predykcje i adaptują zachowanie w warunkach niepewności. Jest autorem wielu recenzowanych publikacji oraz prezentował wyniki badań na konferencjach międzynarodowych.
+
+Artur obecnie pracuje jako data scientist w piłce nożnej, gdzie wykorzystuje neuronaukę poznawczą, analizę danych i modelowanie obliczeniowe do badania poznawczych i percepcyjnych czynników leżących u podstaw wykonania sportowego. Równolegle pełni funkcję wykładowcy na Uniwersytecie Warszawskim, gdzie prowadzi zajęcia z zakresu sztucznej inteligencji i nauk kognitywnych. Jego praca łączy podstawową neuronaukę poznawczą, modelowanie ilościowe oraz środowiska wydajności stosowanej.
+
+Mimo że poznanie jest kluczowym determinantem wykonania w piłce nożnej, obejmując percepcję, antycypację, podejmowanie decyzji i adaptację, procesy te nadal są niewystarczająco rozumiane i rzadko mierzone przy użyciu rygorystycznych metod naukowych. Długoterminowym celem Artura jest uczynienie procesów poznawczych mierzalnym i naukowo ugruntowanym elementem w piłce nożnej poprzez integrację eksperymentów behawioralnych, EEG, eye-trackingu oraz modelowania obliczeniowego opartego na danych. Jego celem jest współtworzenie ram naukowych umożliwiających obiektywny pomiar i zrozumienie wydajności poznawczej w sporcie elitarnym, rozwijając podejścia evidence-based na styku neuronauki poznawczej, data science i piłki nożnej.
+:::
+
+## Zainteresowania badawcze i aplikacyjne {.section-title .reveal}
+
+<div class="chip-wrap reveal">
+  <span class="chip">Podejmowanie decyzji</span>
+  <span class="chip">Percepcja</span>
+  <span class="chip">Uwaga</span>
+  <span class="chip">Skanowanie</span>
+  <span class="chip">Profilowanie poznawcze</span>
+</div>
+
+::: {.about-methods-photo}
+::: {.about-col}
+## Metody i narzędzia {.section-title .reveal}
+
+::: {.soft-card .reveal}
+- Neuroobrazowanie (EEG, eye-tracking)
+- Data science (infrastruktura, analiza, wizualizacja)
+- Superwizja - Dydaktyka - Przywództwo
+- Zarządzanie projektami
+- Komunikacja
+:::
+:::
+
+::: {.about-col}
+## Zdjęcie {.section-title .reveal}
+
+<div class="photo-slot reveal">
+  <img src="../assets/profile.jpg" alt="Portret Artura Czeszumskiego" class="profile-image" onerror="if (this.dataset.fallback === 'jpeg') { this.dataset.fallback = 'png'; this.src = '../assets/profile.png'; } else if (this.dataset.fallback === 'png') { this.style.display='none'; this.parentElement.querySelector('.photo-placeholder').style.display='grid'; } else { this.dataset.fallback = 'jpeg'; this.src = '../assets/profile.jpeg'; }">
+  <div class="photo-placeholder" style="display:none;">Umieść zdjęcie w pliku <code>assets/profile.jpg</code></div>
+</div>
+:::
+:::

@@ -1,0 +1,50 @@
+---
+title: ""
+lang: pl
+page-layout: full
+format:
+  html:
+    include-in-header:
+      text: |
+        <link rel="canonical" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/">
+        <link rel="alternate" hreflang="en" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/">
+        <link rel="alternate" hreflang="pl" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/">
+---
+
+::: {.hero-card .reveal}
+::: {.hero-content}
+<span class="eyebrow">Neuronauka poznawcza · Profesjonalna piłka nożna</span>
+# Artur Czeszumski, PhD
+
+<div class="positioning">Neuronaukowiec poznawczy spotyka futbol</div>
+
+Artur Czeszumski, PhD, jest neuronaukowcem poznawczym i data scientistą, specjalizującym się w pomiarze oraz modelowaniu obliczeniowym procesów poznawczych człowieka. Obecnie pracuje jako data scientist w klubie piłkarskim i jest wykładowcą na Uniwersytecie Warszawskim. Łączy neuronaukę poznawczą i data science, aby badać mechanizmy poznawcze i percepcyjne leżące u podstaw rozwoju talentu piłkarskiego.
+
+<a class="icon-btn" href="o-mnie.qmd" aria-label="Przeczytaj pełne bio">Pełne bio</a>
+:::
+:::
+
+## Otwartość na współpracę {.section-title .reveal}
+
+::: {.soft-card .reveal}
+- Konsulting / badania stosowane w piłce nożnej
+- Data science (infrastruktura, analiza, wizualizacja)
+- Metody neuroobrazowania
+- Projektowanie eksperymentów
+- Modelowanie obliczeniowe
+:::
+
+## Kontakt {.section-title .reveal}
+
+::: {.contact-strip .reveal}
+<div>Dostępność na projekty, doradztwo i współpracę interdyscyplinarną.</div>
+
+<div class="contact-links">
+  <a class="icon-btn" href="mailto:aczeszum@gmail.com" aria-label="Email">Email</a>
+  <a class="icon-btn" href="https://www.linkedin.com/in/dr-artur-czeszumski-88ba8994/" aria-label="LinkedIn">LinkedIn</a>
+  <a class="icon-btn" href="https://scholar.google.com/citations?user=mcd0HH8AAAAJ&hl=en" aria-label="Google Scholar">Scholar</a>
+  <a class="icon-btn" href="https://github.com/ArtuDitu" aria-label="GitHub">GitHub</a>
+  <a class="icon-btn" href="https://bsky.app/profile/arturczeszumski.bsky.social" aria-label="BlueSky">BlueSky</a>
+  <a class="icon-btn" href="https://x.com/aczeszum" aria-label="X">X</a>
+</div>
+:::

@@ -1,0 +1,63 @@
+---
+title: "About"
+lang: en
+page-layout: full
+format:
+  html:
+    include-in-header:
+      text: |
+        <link rel="canonical" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/about/">
+        <link rel="alternate" hreflang="en" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/about/">
+        <link rel="alternate" hreflang="pl" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/o-mnie/">
+---
+
+## Short Bio {.section-title .reveal}
+
+::: {.soft-card .reveal}
+Artur Czeszumski, PhD, is a cognitive neuroscientist and data scientist specialising in the measurement and computational modelling of human cognition.
+:::
+
+## Extended Bio {.section-title .reveal}
+
+::: {.soft-card .reveal}
+Artur Czeszumski, PhD, is a cognitive neuroscientist and data scientist specialising in the measurement and computational modelling of human cognition. He holds a Joint PhD in Cognitive Science and Psychology from Vrije Universiteit Amsterdam and University of Osnabrück, where his research focused on the neural and cognitive mechanisms underlying decision-making, social interaction, and adaptive behaviour in dynamic environments.
+
+His expertise combines cognitive neuroscience, artificial intelligence, and data science, with a strong emphasis on experimental design and quantitative analysis of behavioural and neurophysiological data. He has extensive experience working with EEG and eye-tracking time-series, enabling objective measurement of neural and perceptual processes underlying cognition. His work integrates experimental methods with statistical modelling, machine learning, and computational approaches to understand how humans process information, generate predictions, and adapt behaviour under uncertainty. He has authored multiple peer-reviewed publications and presented his work internationally.
+
+Artur currently works as a data scientist in football, where he applies cognitive neuroscience, data analysis, and computational modelling to investigate cognitive and perceptual factors underlying performance. In parallel, he serves as a lecturer at the University of Warsaw, where he teaches artificial intelligence and cognitive science. His work bridges fundamental cognitive neuroscience, quantitative modelling, and applied performance environments.
+
+Despite cognition being a central determinant of performance in football, including perception, anticipation, decision-making, and adaptation, these processes remain insufficiently understood and rarely measured using rigorous scientific methods. Artur's long-term objective is to establish cognition as a measurable and scientifically grounded component of football performance by integrating behavioural experiments, EEG, eye-tracking, and data-driven computational modelling. His goal is to contribute to the development of a scientific framework that enables objective measurement and understanding of cognitive performance in elite sport, advancing evidence-based approaches at the intersection of cognitive neuroscience, data science, and football.
+:::
+
+## Research & Applied Interests {.section-title .reveal}
+
+<div class="chip-wrap reveal">
+  <span class="chip">Decision-Making</span>
+  <span class="chip">Perception</span>
+  <span class="chip">Attention</span>
+  <span class="chip">Scanning</span>
+  <span class="chip">Cognitive Profiling</span>
+</div>
+
+::: {.about-methods-photo}
+::: {.about-col}
+## Methods & Tools {.section-title .reveal}
+
+::: {.soft-card .reveal}
+- Neuroimagining (EEG, Eye-Tracking)
+- Data science (infrastructure, analysis, visualisation)
+- Supervision - Teaching - Leadership
+- Project Management
+- Communication
+:::
+:::
+
+::: {.about-col}
+## Photo {.section-title .reveal}
+
+<div class="photo-slot reveal">
+  <img src="assets/profile.jpg" alt="Portrait of Artur Czeszumski" class="profile-image" onerror="if (this.dataset.fallback === 'jpeg') { this.dataset.fallback = 'png'; this.src = 'assets/profile.png'; } else if (this.dataset.fallback === 'png') { this.style.display='none'; this.parentElement.querySelector('.photo-placeholder').style.display='grid'; } else { this.dataset.fallback = 'jpeg'; this.src = 'assets/profile.jpeg'; }">
+  <div class="photo-placeholder" style="display:none;">Place your photo at <code>assets/profile.jpg</code></div>
+</div>
+:::
+:::

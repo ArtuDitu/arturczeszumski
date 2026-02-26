@@ -1,0 +1,38 @@
+---
+title: "Contact"
+lang: en
+page-layout: full
+format:
+  html:
+    include-in-header:
+      text: |
+        <link rel="canonical" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/contact/">
+        <link rel="alternate" hreflang="en" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/contact/">
+        <link rel="alternate" hreflang="pl" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/kontakt/">
+---
+
+## Let's Collaborate {.section-title .reveal}
+
+::: {.soft-card .reveal}
+If you want to discuss football cognition, applied research, or data-driven performance work, I would be glad to connect. I am open to collaboration and building projects together across science and practice.
+:::
+
+::: {.contact-strip .reveal}
+<div class="contact-links">
+  <a class="icon-btn" href="mailto:aczeszum@gmail.com" aria-label="Email">Email</a>
+  <a class="icon-btn" href="https://www.linkedin.com/in/dr-artur-czeszumski-88ba8994/" aria-label="LinkedIn">LinkedIn</a>
+  <a class="icon-btn" href="https://scholar.google.com/citations?user=mcd0HH8AAAAJ&amp;hl=en" aria-label="Google Scholar">Scholar</a>
+  <a class="icon-btn" href="https://github.com/ArtuDitu" aria-label="GitHub">GitHub</a>
+  <a class="icon-btn" href="https://bsky.app/profile/arturczeszumski.bsky.social" aria-label="BlueSky">BlueSky</a>
+  <a class="icon-btn" href="https://x.com/aczeszum" aria-label="X">X</a>
+</div>
+:::
+
+<!--
+Optional static-form placeholder (for later):
+<form action="https://formspree.io/f/xxxxxxx" method="POST">
+  <input type="email" name="email" required>
+  <textarea name="message" required></textarea>
+  <button type="submit">Send</button>
+</form>
+-->

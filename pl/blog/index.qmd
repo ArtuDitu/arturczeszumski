@@ -1,0 +1,43 @@
+---
+title: "Blog"
+lang: pl
+page-layout: full
+format:
+  html:
+    include-in-header:
+      text: |
+        <link rel="canonical" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/blog/">
+        <link rel="alternate" hreflang="en" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/blog/">
+        <link rel="alternate" hreflang="pl" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/blog/">
+---
+
+## Notatki i analizy {.section-title .reveal}
+
+<div class="soft-card reveal">
+  <label for="blog-filter"><strong>Szukaj lub filtruj po tagu</strong></label>
+  <input id="blog-filter" type="search" placeholder="np. modelowanie, poznanie, piłka" style="width:100%; margin-top:0.6rem; border-radius:0.8rem; border:1px solid #c6cfd7; padding:0.55rem 0.75rem;" />
+</div>
+
+<div class="blog-grid" id="blog-grid">
+  <article class="blog-card reveal" data-tags="poznanie pilka plotly">
+    <div class="blog-meta">[DATA] · Tagi: poznanie, piłka, plotly</div>
+    <h3><a href="post-1/">Przykład: Wizualizacja trendów obciążenia poznawczego</a></h3>
+    <p>[Placeholder zajawki wpisu dwujęzycznego z prostą interaktywną wizualizacją Plotly.]</p>
+  </article>
+</div>
+
+<script>
+(() => {
+  const input = document.getElementById('blog-filter');
+  const cards = Array.from(document.querySelectorAll('#blog-grid .blog-card'));
+  if (!input || cards.length === 0) return;
+
+  input.addEventListener('input', () => {
+    const query = input.value.trim().toLowerCase();
+    cards.forEach((card) => {
+      const text = (card.textContent + ' ' + card.dataset.tags).toLowerCase();
+      card.style.display = !query || text.includes(query) ? '' : 'none';
+    });
+  });
+})();
+</script>

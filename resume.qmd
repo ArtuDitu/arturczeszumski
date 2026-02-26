@@ -1,0 +1,145 @@
+---
+title: "Resume / CV"
+lang: en
+page-layout: full
+format:
+  html:
+    include-in-header:
+      text: |
+        <link rel="canonical" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/resume/">
+        <link rel="alternate" hreflang="en" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/resume/">
+        <link rel="alternate" hreflang="pl" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/cv/">
+---
+
+## Education & Employment History {.section-title .reveal}
+
+<div class="timeline">
+<div class="timeline-item reveal">
+<div class="timeline-skills">
+<div class="chip-wrap">
+<span class="chip">Teaching</span>
+<span class="chip">Statistics</span>
+<span class="chip">Programming</span>
+</div>
+</div>
+<div class="timeline-center">
+<div class="timeline-node"></div>
+Sep 2025 - Present
+</div>
+<div class="timeline-content">
+<h3>Lecturer · University of Warsaw (Poland)</h3>
+<ul>
+<li>Teaching statistics and programming.</li>
+</ul>
+</div>
+</div>
+
+<div class="timeline-item reveal">
+<div class="timeline-skills">
+<div class="chip-wrap">
+<span class="chip">Data Infrastructure</span>
+<span class="chip">Data Analysis</span>
+<span class="chip">Predictive Modelling</span>
+<span class="chip">Cognitive Profiling</span>
+</div>
+</div>
+<div class="timeline-center">
+<div class="timeline-node"></div>
+Sep 2024 - Present
+</div>
+<div class="timeline-content">
+<h3>Data Scientist · Legia Warszawa (Poland)</h3>
+<ul>
+<li>Building and maintaining data infrastructure for applied football workflows.</li>
+<li>Delivering analysis and predictive modelling for decision support.</li>
+<li>Developing cognitive profiling approaches for performance contexts.</li>
+</ul>
+</div>
+</div>
+
+<div class="timeline-item reveal">
+<div class="timeline-skills">
+<div class="chip-wrap">
+<span class="chip">Dashboarding</span>
+<span class="chip">Data Integration</span>
+<span class="chip">Neuro/Behavioral Data</span>
+</div>
+</div>
+<div class="timeline-center">
+<div class="timeline-node"></div>
+Jan 2024 - Sep 2024
+</div>
+<div class="timeline-content">
+<h3>Postdoctoral Researcher · University of Bielefeld (Germany)</h3>
+<ul>
+<li>Created a database and live dashboard combining behavioral, neurophysiological, and physiological datasets.</li>
+<li>Implemented practical data organization and monitoring workflows across large study collections.</li>
+</ul>
+</div>
+</div>
+
+<div class="timeline-item reveal">
+<div class="timeline-skills">
+<div class="chip-wrap">
+<span class="chip">R / MATLAB / Python / SQL</span>
+<span class="chip">Communication</span>
+<span class="chip">Supervision</span>
+<span class="chip">Team Leadership</span>
+</div>
+</div>
+<div class="timeline-center">
+<div class="timeline-node"></div>
+Jan 2018 - Aug 2023
+</div>
+<div class="timeline-content">
+<h3>PhD Researcher · Vrije Universiteit Amsterdam &amp; University of Osnabrück</h3>
+<ul>
+<li>Research on cooperative human behavior and its neural markers.</li>
+<li>Produced 10 peer-reviewed publications and delivered 30+ international conference presentations.</li>
+<li>Taught 15 courses and supervised 30+ BSc/MSc theses.</li>
+</ul>
+</div>
+</div>
+
+<div class="timeline-item reveal">
+<div class="timeline-skills">
+<div class="chip-wrap">
+<span class="chip">EEG Hyperscanning</span>
+<span class="chip">Networking</span>
+<span class="chip">Cloud Data Flow</span>
+</div>
+</div>
+<div class="timeline-center">
+<div class="timeline-node"></div>
+Feb 2022 - Jun 2022
+</div>
+<div class="timeline-content">
+<h3>Researcher · Center for Brain, Mind and KANSEI Sciences Research (Tokyo, Japan)</h3>
+<ul>
+<li>Developed a networking solution for collecting EEG hyperscanning data via internet cloud architecture.</li>
+</ul>
+</div>
+</div>
+
+<div class="timeline-item reveal">
+<div class="timeline-skills">
+<div class="chip-wrap">
+<span class="chip">EEG Time-Series</span>
+<span class="chip">Social Interaction</span>
+<span class="chip">Human-Robot Interaction</span>
+</div>
+</div>
+<div class="timeline-center">
+<div class="timeline-node"></div>
+2019 - 2022
+</div>
+<div class="timeline-content">
+<h3>Selected International Research Stays · Sweden, Brazil, Uganda</h3>
+<ul>
+<li>KTH Stockholm (May 2019): cooperative human-robot interaction study.</li>
+<li>Federal University of Rio Grande do Norte, Brazil (Dec 2019 - Mar 2020): EEG time-series analysis.</li>
+<li>Ngogo Field Station, Uganda (Dec 2021 - Jan 2022): field research on social interactions in wild chimpanzees.</li>
+</ul>
+</div>
+</div>
+</div>
