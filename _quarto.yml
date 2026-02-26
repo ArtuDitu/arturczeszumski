@@ -19,6 +19,7 @@ website:
   title: "Artur Czeszumski, PhD"
   site-url: "https://artuditu.github.io/arturczeszumski"
   favicon: assets/network.svg
+  google-analytics: "G-20J196C15C"
   navbar:
     pinned: true
     left:

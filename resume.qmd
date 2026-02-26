@@ -85,6 +85,9 @@ Jan 2024 - Sep 2024
 <span class="chip">Communication</span>
 <span class="chip">Supervision</span>
 <span class="chip">Team Leadership</span>
+<span class="chip">Machine Learning</span>
+<span class="chip">Virtual Reality</span>
+<span class="chip">Writing</span>
 </div>
 </div>
 <div class="timeline-center">
@@ -127,6 +130,7 @@ Feb 2022 - Jun 2022
 <span class="chip">EEG Time-Series</span>
 <span class="chip">Social Interaction</span>
 <span class="chip">Human-Robot Interaction</span>
+<span class="chip">Psychodelics research</span>
 </div>
 </div>
 <div class="timeline-center">
@@ -146,9 +150,11 @@ Feb 2022 - Jun 2022
 <div class="timeline-item reveal">
 <div class="timeline-skills">
 <div class="chip-wrap">
-<span class="chip">Cognitive Science</span>
-<span class="chip">Research Methods</span>
-<span class="chip">Quantitative Analysis</span>
+<span class="chip">EEG</span>
+<span class="chip">Eye-Tracking</span>
+<span class="chip">MATLAB</span>
+<span class="chip">Python</span>
+<span class="chip">R</span>
 </div>
 </div>
 <div class="timeline-center">
@@ -166,9 +172,9 @@ Apr 2014 - Aug 2017
 <div class="timeline-item reveal">
 <div class="timeline-skills">
 <div class="chip-wrap">
-<span class="chip">Cognitive Science</span>
-<span class="chip">Foundations</span>
-<span class="chip">Interdisciplinary Training</span>
+<span class="chip">Neuroscience</span>
+<span class="chip">Psychology</span>
+<span class="chip">Computer Science</span>
 </div>
 </div>
 <div class="timeline-center">
