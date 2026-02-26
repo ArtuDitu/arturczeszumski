@@ -142,4 +142,44 @@ Luty 2022 - czerwiec 2022
 </ul>
 </div>
 </div>
+
+<div class="timeline-item reveal">
+<div class="timeline-skills">
+<div class="chip-wrap">
+<span class="chip">Nauki kognitywne</span>
+<span class="chip">Metody badawcze</span>
+<span class="chip">Analiza ilościowa</span>
+</div>
+</div>
+<div class="timeline-center">
+<div class="timeline-node"></div>
+Kwiecień 2014 - sierpień 2017
+</div>
+<div class="timeline-content">
+<h3>Master of Cognitive Science · University of Osnabrück (Niemcy)</h3>
+<ul>
+<li>Osnabrück, Niemcy.</li>
+</ul>
+</div>
+</div>
+
+<div class="timeline-item reveal">
+<div class="timeline-skills">
+<div class="chip-wrap">
+<span class="chip">Nauki kognitywne</span>
+<span class="chip">Podstawy</span>
+<span class="chip">Przygotowanie interdyscyplinarne</span>
+</div>
+</div>
+<div class="timeline-center">
+<div class="timeline-node"></div>
+Październik 2010 - styczeń 2014
+</div>
+<div class="timeline-content">
+<h3>Bachelor of Cognitive Science · Nicolaus Copernicus University in Toruń (Polska)</h3>
+<ul>
+<li>Toruń, Polska.</li>
+</ul>
+</div>
+</div>
 </div>

@@ -1,0 +1,23 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pitchStroke" x1="0" y1="450" x2="1600" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6D8179" stop-opacity="0.42"/>
+      <stop offset="0.5" stop-color="#13D18D" stop-opacity="0.86"/>
+      <stop offset="1" stop-color="#6D8179" stop-opacity="0.42"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="84" y="84" width="1432" height="732" rx="22" stroke="url(#pitchStroke)" stroke-width="2.5"/>
+  <line x1="800" y1="84" x2="800" y2="816" stroke="url(#pitchStroke)" stroke-width="2.5"/>
+  <circle cx="800" cy="450" r="128" stroke="url(#pitchStroke)" stroke-width="2.5"/>
+  <circle cx="800" cy="450" r="3.6" fill="#13D18D" fill-opacity="0.55"/>
+
+  <rect x="84" y="233" width="226" height="434" stroke="url(#pitchStroke)" stroke-width="2.1"/>
+  <rect x="1290" y="233" width="226" height="434" stroke="url(#pitchStroke)" stroke-width="2.1"/>
+  <rect x="84" y="351" width="75" height="198" stroke="url(#pitchStroke)" stroke-width="1.9"/>
+  <rect x="1441" y="351" width="75" height="198" stroke="url(#pitchStroke)" stroke-width="1.9"/>
+  <path d="M310 371.2 A125.3 98.5 0 0 1 310 528.8" stroke="url(#pitchStroke)" stroke-width="2"/>
+  <path d="M1290 371.2 A125.3 98.5 0 0 0 1290 528.8" stroke="url(#pitchStroke)" stroke-width="2"/>
+  <circle cx="234.7" cy="450" r="3.2" fill="#13D18D" fill-opacity="0.5"/>
+  <circle cx="1365.3" cy="450" r="3.2" fill="#13D18D" fill-opacity="0.5"/>
+</svg>

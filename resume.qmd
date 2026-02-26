@@ -1,5 +1,5 @@
 ---
-title: "Resume / CV"
+title: "Resume"
 lang: en
 page-layout: full
 format:
@@ -139,6 +139,46 @@ Feb 2022 - Jun 2022
 <li>KTH Stockholm (May 2019): cooperative human-robot interaction study.</li>
 <li>Federal University of Rio Grande do Norte, Brazil (Dec 2019 - Mar 2020): EEG time-series analysis.</li>
 <li>Ngogo Field Station, Uganda (Dec 2021 - Jan 2022): field research on social interactions in wild chimpanzees.</li>
+</ul>
+</div>
+</div>
+
+<div class="timeline-item reveal">
+<div class="timeline-skills">
+<div class="chip-wrap">
+<span class="chip">Cognitive Science</span>
+<span class="chip">Research Methods</span>
+<span class="chip">Quantitative Analysis</span>
+</div>
+</div>
+<div class="timeline-center">
+<div class="timeline-node"></div>
+Apr 2014 - Aug 2017
+</div>
+<div class="timeline-content">
+<h3>Master of Cognitive Science · University of Osnabrück (Germany)</h3>
+<ul>
+<li>Osnabrück, Germany.</li>
+</ul>
+</div>
+</div>
+
+<div class="timeline-item reveal">
+<div class="timeline-skills">
+<div class="chip-wrap">
+<span class="chip">Cognitive Science</span>
+<span class="chip">Foundations</span>
+<span class="chip">Interdisciplinary Training</span>
+</div>
+</div>
+<div class="timeline-center">
+<div class="timeline-node"></div>
+Oct 2010 - Jan 2014
+</div>
+<div class="timeline-content">
+<h3>Bachelor of Cognitive Science · Nicolaus Copernicus University in Toruń (Poland)</h3>
+<ul>
+<li>Toruń, Poland.</li>
 </ul>
 </div>
 </div>

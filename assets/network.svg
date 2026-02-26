@@ -1,34 +1,56 @@
-<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <g stroke="#0E3D4A" stroke-width="2.4" stroke-linecap="round">
-    <path d="M140 150L320 230L470 140L640 230L760 150L980 220"/>
-    <path d="M210 330L360 410L520 340L700 430L870 350L1030 450"/>
-    <path d="M150 570L320 500L520 600L700 520L900 620L1030 560"/>
-    <path d="M320 230L360 410"/>
-    <path d="M470 140L520 340"/>
-    <path d="M640 230L700 430"/>
-    <path d="M760 150L870 350"/>
-    <path d="M700 430L700 520"/>
-    <path d="M520 340L520 600"/>
-    <path d="M360 410L320 500"/>
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="edgeGradient" x1="186" y1="140" x2="1430" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7A8D85" stop-opacity="0.14"/>
+      <stop offset="0.5" stop-color="#13D18D" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#7A8D85" stop-opacity="0.14"/>
+    </linearGradient>
+    <radialGradient id="nodeGradient" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(0.5 0.5) scale(1)">
+      <stop stop-color="#13D18D" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#13D18D" stop-opacity="0.2"/>
+    </radialGradient>
+  </defs>
+
+  <g stroke="url(#edgeGradient)" stroke-width="1.8" stroke-linecap="round">
+    <path d="M186 162L378 244L566 146L772 254L982 178L1188 272L1398 220"/>
+    <path d="M236 352L430 430L616 336L826 446L1034 372L1248 454L1430 390"/>
+    <path d="M198 620L394 546L614 654L832 566L1056 680L1258 600L1440 660"/>
+
+    <path d="M378 244L430 430"/>
+    <path d="M566 146L616 336"/>
+    <path d="M772 254L826 446"/>
+    <path d="M982 178L1034 372"/>
+    <path d="M1188 272L1248 454"/>
+    <path d="M430 430L394 546"/>
+    <path d="M616 336L614 654"/>
+    <path d="M826 446L832 566"/>
+    <path d="M1034 372L1056 680"/>
+    <path d="M1248 454L1258 600"/>
   </g>
-  <g fill="#0E3D4A">
-    <circle cx="140" cy="150" r="7"/>
-    <circle cx="320" cy="230" r="7"/>
-    <circle cx="470" cy="140" r="7"/>
-    <circle cx="640" cy="230" r="7"/>
-    <circle cx="760" cy="150" r="7"/>
-    <circle cx="980" cy="220" r="7"/>
-    <circle cx="210" cy="330" r="7"/>
-    <circle cx="360" cy="410" r="7"/>
-    <circle cx="520" cy="340" r="7"/>
-    <circle cx="700" cy="430" r="7"/>
-    <circle cx="870" cy="350" r="7"/>
-    <circle cx="1030" cy="450" r="7"/>
-    <circle cx="150" cy="570" r="7"/>
-    <circle cx="320" cy="500" r="7"/>
-    <circle cx="520" cy="600" r="7"/>
-    <circle cx="700" cy="520" r="7"/>
-    <circle cx="900" cy="620" r="7"/>
-    <circle cx="1030" cy="560" r="7"/>
+
+  <g fill="url(#nodeGradient)">
+    <circle cx="186" cy="162" r="5"/>
+    <circle cx="378" cy="244" r="5"/>
+    <circle cx="566" cy="146" r="5"/>
+    <circle cx="772" cy="254" r="5"/>
+    <circle cx="982" cy="178" r="5"/>
+    <circle cx="1188" cy="272" r="5"/>
+    <circle cx="1398" cy="220" r="5"/>
+
+    <circle cx="236" cy="352" r="5"/>
+    <circle cx="430" cy="430" r="5"/>
+    <circle cx="616" cy="336" r="5"/>
+    <circle cx="826" cy="446" r="5"/>
+    <circle cx="1034" cy="372" r="5"/>
+    <circle cx="1248" cy="454" r="5"/>
+    <circle cx="1430" cy="390" r="5"/>
+
+    <circle cx="198" cy="620" r="5"/>
+    <circle cx="394" cy="546" r="5"/>
+    <circle cx="614" cy="654" r="5"/>
+    <circle cx="832" cy="566" r="5"/>
+    <circle cx="1056" cy="680" r="5"/>
+    <circle cx="1258" cy="600" r="5"/>
+    <circle cx="1440" cy="660" r="5"/>
   </g>
 </svg>

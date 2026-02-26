@@ -11,13 +11,7 @@ format:
         <link rel="alternate" hreflang="pl" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/o-mnie/">
 ---
 
-## Krótkie bio {.section-title .reveal}
-
-::: {.soft-card .reveal}
-Artur Czeszumski, PhD, jest neuronaukowcem poznawczym i data scientistą, specjalizującym się w pomiarze oraz modelowaniu obliczeniowym procesów poznawczych człowieka.
-:::
-
-## Dłuższe bio {.section-title .reveal}
+## Bio {.section-title .reveal}
 
 ::: {.soft-card .reveal}
 Artur Czeszumski, PhD, jest neuronaukowcem poznawczym i data scientistą, specjalizującym się w pomiarze oraz modelowaniu obliczeniowym procesów poznawczych człowieka. Ukończył wspólny doktorat z nauk kognitywnych i psychologii na Vrije Universiteit Amsterdam oraz University of Osnabrück, gdzie badał neuronalne i poznawcze mechanizmy podejmowania decyzji, interakcji społecznych oraz zachowań adaptacyjnych w dynamicznych środowiskach.

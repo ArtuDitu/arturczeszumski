@@ -11,13 +11,7 @@ format:
         <link rel="alternate" hreflang="pl" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/o-mnie/">
 ---
 
-## Short Bio {.section-title .reveal}
-
-::: {.soft-card .reveal}
-Artur Czeszumski, PhD, is a cognitive neuroscientist and data scientist specialising in the measurement and computational modelling of human cognition.
-:::
-
-## Extended Bio {.section-title .reveal}
+## Bio {.section-title .reveal}
 
 ::: {.soft-card .reveal}
 Artur Czeszumski, PhD, is a cognitive neuroscientist and data scientist specialising in the measurement and computational modelling of human cognition. He holds a Joint PhD in Cognitive Science and Psychology from Vrije Universiteit Amsterdam and University of Osnabrück, where his research focused on the neural and cognitive mechanisms underlying decision-making, social interaction, and adaptive behaviour in dynamic environments.

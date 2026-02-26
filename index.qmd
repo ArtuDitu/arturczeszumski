@@ -13,9 +13,6 @@ format:
 
 ::: {.hero-card .reveal}
 ::: {.hero-content}
-<span class="eyebrow">Cognitive Neuroscience · Professional Football</span>
-# Artur Czeszumski, PhD
-
 <div class="positioning">Cognitive Neuroscientist meets Football</div>
 
 Artur Czeszumski, PhD, is a cognitive neuroscientist and data scientist specialising in the measurement and computational modelling of human cognition. He currently works as a data scientist in football club and serves as a lecturer at the University of Warsaw. His work combines cognitive neuroscience and data science to investigate cognitive and perceptual mechanisms underlying football talent development.
@@ -27,7 +24,7 @@ Artur Czeszumski, PhD, is a cognitive neuroscientist and data scientist speciali
 ## Open to collaboration {.section-title .reveal}
 
 ::: {.soft-card .reveal}
-- Consulting / applied research in football
+- Advisory / applied research in football
 - Data Science (infrastructure, analysis, visualisation)
 - Neuroimagining methods
 - Experimental designs

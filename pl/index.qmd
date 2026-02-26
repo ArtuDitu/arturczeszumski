@@ -13,9 +13,6 @@ format:
 
 ::: {.hero-card .reveal}
 ::: {.hero-content}
-<span class="eyebrow">Neuronauka poznawcza · Profesjonalna piłka nożna</span>
-# Artur Czeszumski, PhD
-
 <div class="positioning">Neuronaukowiec poznawczy spotyka futbol</div>
 
 Artur Czeszumski, PhD, jest neuronaukowcem poznawczym i data scientistą, specjalizującym się w pomiarze oraz modelowaniu obliczeniowym procesów poznawczych człowieka. Obecnie pracuje jako data scientist w klubie piłkarskim i jest wykładowcą na Uniwersytecie Warszawskim. Łączy neuronaukę poznawczą i data science, aby badać mechanizmy poznawcze i percepcyjne leżące u podstaw rozwoju talentu piłkarskiego.
@@ -27,7 +24,7 @@ Artur Czeszumski, PhD, jest neuronaukowcem poznawczym i data scientistą, specja
 ## Otwartość na współpracę {.section-title .reveal}
 
 ::: {.soft-card .reveal}
-- Konsulting / badania stosowane w piłce nożnej
+- Doradztwo / badania stosowane w piłce nożnej
 - Data science (infrastruktura, analiza, wizualizacja)
 - Metody neuroobrazowania
 - Projektowanie eksperymentów

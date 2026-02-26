@@ -28,7 +28,7 @@ website:
         href: about.qmd
       - text: Publications
         href: publications.qmd
-      - text: Resume / CV
+      - text: Resume
         href: resume.qmd
       - text: Contact
         href: contact.qmd
@@ -72,7 +72,7 @@ format:
               home: { text: 'Home', href: '/' },
               about: { text: 'About', href: '/about' },
               publications: { text: 'Publications', href: '/publications' },
-              resume: { text: 'Resume / CV', href: '/resume' },
+              resume: { text: 'Resume', href: '/resume' },
               contact: { text: 'Contact', href: '/contact' }
             };
             const plMap = {
