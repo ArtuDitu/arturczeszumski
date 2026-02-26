@@ -6,9 +6,9 @@ format:
   html:
     include-in-header:
       text: |
-        <link rel="canonical" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/o-mnie/">
-        <link rel="alternate" hreflang="en" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/about/">
-        <link rel="alternate" hreflang="pl" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/o-mnie/">
+        <link rel="canonical" href="https://ArtuDitu.github.io/WebPage_Artur/pl/o-mnie/">
+        <link rel="alternate" hreflang="en" href="https://ArtuDitu.github.io/WebPage_Artur/about/">
+        <link rel="alternate" hreflang="pl" href="https://ArtuDitu.github.io/WebPage_Artur/pl/o-mnie/">
 ---
 
 ## Bio {.section-title .reveal}
@@ -31,6 +31,12 @@ Mimo że poznanie jest kluczowym determinantem wykonania w piłce nożnej, obejm
   <span class="chip">Uwaga</span>
   <span class="chip">Skanowanie</span>
   <span class="chip">Profilowanie poznawcze</span>
+  <span class="chip">EEG</span>
+  <span class="chip">Eye-Tracking</span>
+  <span class="chip">Embodiement</span>
+  <span class="chip">Active Inference</span>
+  <span class="chip">Predictive Coding</span>
+  <span class="chip">Situated Cognition</span>
 </div>
 
 ::: {.about-methods-photo}

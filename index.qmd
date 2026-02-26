@@ -6,9 +6,9 @@ format:
   html:
     include-in-header:
       text: |
-        <link rel="canonical" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/">
-        <link rel="alternate" hreflang="en" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/">
-        <link rel="alternate" hreflang="pl" href="https://[GITHUB-USERNAME].github.io/[REPOSITORY]/pl/">
+        <link rel="canonical" href="https://ArtuDitu.github.io/WebPage_Artur/">
+        <link rel="alternate" hreflang="en" href="https://ArtuDitu.github.io/WebPage_Artur/">
+        <link rel="alternate" hreflang="pl" href="https://ArtuDitu.github.io/WebPage_Artur/pl/">
 ---
 
 ::: {.hero-card .reveal}
