@@ -84,11 +84,15 @@ def main():
         education = yaml.safe_load(f) or []
 
     items = []
+    yaml_index = 0
 
     for e in employment:
+        date_label = e.get('date_label', '')
         items.append({
-            'sort_key': parse_start_date(e.get('date_label', '')),
-            'date_label': e.get('date_label', ''),
+            'sort_key': parse_start_date(date_label),
+            'is_present': 'present' in date_label.lower(),
+            'yaml_index': yaml_index,
+            'date_label': date_label,
             'title': make_title(
                 e.get('role', ''),
                 e.get('organization', ''),
@@ -97,11 +101,15 @@ def main():
             'tags': e.get('tags', []),
             'highlights': e.get('highlights', []),
         })
+        yaml_index += 1
 
     for ed in education:
+        date_label = ed.get('date_label', '')
         items.append({
-            'sort_key': parse_start_date(ed.get('date_label', '')),
-            'date_label': ed.get('date_label', ''),
+            'sort_key': parse_start_date(date_label),
+            'is_present': 'present' in date_label.lower(),
+            'yaml_index': yaml_index,
+            'date_label': date_label,
             'title': make_title(
                 ed.get('degree', ''),
                 ed.get('institution', ''),
@@ -110,9 +118,18 @@ def main():
             'tags': ed.get('tags', []),
             'highlights': ed.get('highlights', []),
         })
+        yaml_index += 1
 
-    # Newest first; use (year, month) as secondary key so ties are stable
-    items.sort(key=lambda x: x['sort_key'], reverse=True)
+    # Current jobs (containing "Present") keep their YAML file order so the
+    # author controls which role appears first. Past jobs are sorted by start
+    # date newest-first. Current jobs always appear above past jobs.
+    def sort_key(item):
+        if item['is_present']:
+            return (0, item['yaml_index'], 0, 0)
+        year, month = item['sort_key']
+        return (1, -year, -month, 0)
+
+    items.sort(key=sort_key)
 
     rendered = '\n\n'.join(
         render_item(i['title'], i['date_label'], i['tags'], i['highlights'])
