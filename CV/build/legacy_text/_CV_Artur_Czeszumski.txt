@@ -1,0 +1,99 @@
+Artur Czeszumski
+Profile
+Artur Czeszumski has a Ph.D. degree in Cognitive Science and Psychology at
+the Vrije Universiteit Amsterdam & University of Osnabrück. His research topics
+include social, computational, and cognitive neuroscience, cognitive and clinical
+psychology, and embodied cognition. He has a strong background in data analysis
+(data modeling, data visualization and communication). He is passionate about using
+data and technology in football. Currently, he works as a data scientist in football
+club Legia Warszawa.
+Details
+Warsaw
+Germany
++48 725380224
+aczeszum@gmail.com
+06.01.1990
+Polish
+English
+German
+Skills
+Data Analysis/Statistics
+Python
+Education/Employment History
+Data Scientist, Legia Warszawa (Poland)
+SEPTEMBER 2 0 2 4 — PRESENT
+Post-Doc, University Bielefeld, Bielefeld (Germany)
+J A N U A R Y 2 0 2 4 — AUGUST 2024
+Creating a data base and live dashboard to combine hundreds of behavioral,
+neurophysiological and physiological datasets
+PhD Researcher, Vrije Universiteit Amsterdam and University of Osnabrück,
+Amsterdam/Osnabrück (Netherlands/Germany)
+J A N U A R Y 2 0 1 8 — AU G U S T 2 0 2 3
+Research on human cooperative behavior and its neural markers (10 peer-reviewed
+publications)
+Data analysis (R, MATLAB, Python, SQL; data modeling, data visualization and
+communication)
+Communication (over 30 presentations at international conferences)
+Teaching (15 courses)
+Team leading/Supervision ( over 30 students)
+Resaercher, Center for Brain, Mind and KANSEI Sciences Research, Tokyo, Japan
+F E B R U A R Y 2 0 2 2 — J U N E 2 0 2 3
+Developing a networking solution for collecting EEG hyperscanning data via the
+internet cloud.
+Research Visit, Ngogo field station, , Ngogo, Uganda
+D E C E M B E R 2 0 2 1 — J A N U A R Y 2 0 2 2
+Research visit focused on learning about research conducted on wild chimpanzees
+with a focus on social interactions
+Communication Skills
+Time-series analysis
+(EEG/eye-tracking)
+Google Docs/Sheets/Slides
+Internship, Federal University of Rio Grande do Norte - Brain Institute, Natal, Brazil
+D E C E M B E R 2 0 1 9 — F E B R U A R Y 2 0 2 0
+Analysis of EEG data (time-series)
+Research visit, Perception, and Learning Lab, KTH Stockholm, Stockholm, Sweden
+M AY 2 0 1 9
+Conducting a study on cooperative human-robot interactions
+List of Publications:
+1. Wahn, B., & Czeszumski, A., & König, P. (2018). Performance similarities predict collective
+benefits in dyadic and triadic joint visual search. PLoS ONE, 13(1), e0191179.
+https://doi.org/10.1371/journal.pone.0191179
+2. Czeszumski, A., Ehinger, B. V., Wahn, B., & König, P. (2019). The social situation affects
+how we process feedback about our actions. Frontiers in Psychology, 10, 361.
+https://doi.org/10.3389/fpsyg.2019.00361
+3. Wahn, B., Czeszumski, A., Labusch, M., Kingstone, A., & König, P. (2020). Dyadic and triadic
+search: Benefits, costs, and predictors of group performance. Attention, Perception, &
+Psychophysics, 82(5), 2415–2433. https://doi.org/10.3758/s13414-020-02037-x
+4. Czeszumski, A., Eustergerling, S., Lang, A., Menrath, D., Gerstenberger, M., Schuberth, S.,
+Schreiber, F., Rendon, Z. Z., & König, P. (2020). Hyperscanning: A valid method to study
+neural inter-brain underpinnings of social interaction. Frontiers in Human Neuroscience, 14,
+39. https://doi.org/10.3389/fnhum.2020.00039
+5. Czeszumski, A., Albers, F., Walter, S., & König, P. (2021). Let me make you happy, and I’ll
+tell you how you look around: Using an approach-avoidance task as an embodied emotion
+prime in a free-viewing task. Frontiers in Psychology, 12, 604393.
+https://doi.org/10.3389/fpsyg.2021.604393
+6. Pavlov, Y. G., Adamian, N., Appelhoff, S., Arvaneh, M., Benwell, C. S. Y., Beste, C., Bland,
+A. R., Bradford, D. E., Bublatzky, F., Busch, N. A., … et al. (2021). # EEGManyLabs:
+Investigating the replicability of influential EEG experiments. Cortex, 144, 213–229.
+https://doi.org/10.1016/j.cortex.2021.07.013
+7. Czeszumski, A., Gert, A. L., Keshava, A., Ghadirzadeh, A., Kalthoff, T., Ehinger, B. V.,
+Tiessen, M., Björkman, M., Kragic, D., & König, P. (2021). Coordinating with a robot partner
+affects neural processing related to action monitoring. Frontiers in Neurorobotics, 15,
+686010. https://doi.org/10.3389/fnbot.2021.686010
+8. Solzbacher, J., Czeszumski, A., Walter, S., & König, P. (2022). Evidence for the embodiment
+of the automatic approach bias. Frontiers in Psychology, 4562.
+https://doi.org/10.3389/fpsyg.2022.4562
+9. Czeszumski, A., Liang, S. H., Dikker, S., König, P., Lee, C. P., Koole, S. L., & Kelsen, B.
+(2022). Cooperative behavior evokes inter-brain synchrony in the prefrontal and
+temporoparietal cortex: A systematic review and meta-analysis of fNIRS hyperscanning
+studies. eNeuro, 9(2). https://doi.org/10.1523/ENEURO.0507-21.2022
+10. Derakhshan, S., Nezami, F. N., Wächter, M. A., Czeszumski, A., Keshava, A., Lukanov, H.,
+De Palol, M. V., Pipa, G., & König, P. (2022). Talking cars, doubtful users—A population
+study in virtual reality. IEEE Transactions on Human-Machine Systems, 52(4), 602–612.
+https://doi.org/10.1109/THMS.2022.3177985
+11. Huang, A., Pink, M., Zemliak, V., Czeszumski, A., & König, P. (2025). Choice history biases
+in dyadic decision making. Scientific Reports, 15(1), 11420. https://doi.org/10.1038/s41598-
+025-09699-1
+12. Kelsen, B., Czeszumski, A., Liang, S. H., Pei, Y.-C., Hung, J., Chan, H.-L., & Yeh, H.-W.
+(2025). Exploring foreign language anxiety and resting-state EEG alpha asymmetry. Brain
+and Language, 261, 105519. https://doi.org/10.1016/j.bandl.2025.105519

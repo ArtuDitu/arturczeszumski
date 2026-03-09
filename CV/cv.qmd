@@ -1,0 +1,39 @@
+```{=latex}
+\input{build/generated-title.tex}
+```
+
+# Experience
+
+```{=latex}
+\input{build/generated-experience.tex}
+```
+
+# Education
+
+```{=latex}
+\input{build/generated-education.tex}
+```
+
+# Publications
+
+```{=latex}
+\input{build/generated-publications.tex}
+```
+
+# Public Talks
+
+```{=latex}
+\input{build/generated-talks.tex}
+```
+
+# Teaching Experience
+
+```{=latex}
+\input{build/generated-teaching.tex}
+```
+
+# Awards
+
+```{=latex}
+\input{build/generated-awards.tex}
+```

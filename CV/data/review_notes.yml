@@ -1,0 +1,51 @@
+- topic: Preferred public contact details
+  status: review
+  current_choice: Both the long-running Gmail address and the newer Legia address are included.
+  notes:
+    - Older CVs consistently use aczeszum@gmail.com.
+    - The newest football-oriented CV uses artur.czeszumski@legia.pl.
+    - Confirm which address should be primary in public-facing versions.
+
+- topic: Current location
+  status: review
+  current_choice: Warsaw, Poland
+  notes:
+    - Recent CVs place Artur in Warsaw.
+    - Older academic CVs list Osnabrück, Germany.
+    - Confirm whether Warsaw should remain the public location.
+
+- topic: Legia Warszawa role dating
+  status: review
+  current_choice: Sep 2024 - Present, with academy-specific scope highlighted in the entry notes.
+  notes:
+    - Condensed 2025 CV states Data Scientist at Legia Warszawa from Sep 2024.
+    - One-page 2025 CV names Data Scientist at APLW from Feb 2025.
+    - Review whether this should be one continuous role or split into two entries.
+
+- topic: University of Bielefeld end date
+  status: review
+  current_choice: Jan 2024 - 2024
+  notes:
+    - Legacy PDFs list Aug 2024, Sep 2024, and Dec 2024 as possible end points.
+    - Replace the year-only placeholder once the exact end month is confirmed.
+
+- topic: KANSEI Research visit duration
+  status: review
+  current_choice: Feb 2022 - Jun 2022
+  notes:
+    - Most detailed CV lists Feb 2022 to Jun 2022.
+    - One short CV appears to extend this to Jun 2023.
+
+- topic: Ngogo research visit end date
+  status: review
+  current_choice: Dec 2021 - Jan 2022
+  notes:
+    - One later PDF appears to contain an OCR or line-break error that shows 2024.
+
+- topic: Public talks completeness
+  status: review
+  current_choice: Structured list contains the talks recoverable from the available PDFs.
+  notes:
+    - Older academic CVs report 12 to 14 conference talks overall.
+    - Only a subset was extractable with enough detail for reliable normalization.
+    - Add any missing talks directly in data/talks.yml.

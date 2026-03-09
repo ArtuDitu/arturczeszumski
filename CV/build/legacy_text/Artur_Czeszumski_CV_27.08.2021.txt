@@ -1,0 +1,164 @@
+ARTUR CZESZUMSKI
+PHD CANDIDATE
+D E T A I L S
+EMAIL
+aczeszum@gmail.com
+L I N K S
+Personal Website
+P R O F I L E
+Artur Czeszumski is a PhD Candidate in Cognitive Science at the University
+of Osnabrück, and Clinical Psychology at the Vrije Universiteit Amsterdam. His
+research topics include social neuroscience, cognitive and clinical psychology, and
+embodied cognition.
+Research Gate
+Google Scholar
+Twitter
+Open Science Framework
+GitHub
+E M P L O Y M E N T H I S T O R Y
+IT Assistant, United Nations COP 19 Oct 2013 — Dec 2013
+- IT help desk
+- maintenance of computers and communication devices
+- software and hardware problem solving
+Warsaw, Poland
+LinkedIn
+S K I L L S
+Ability to Multitask
+Fast Learner
+Leadership Skills
+Matlab
+Communication Skills
+Data Analysis
+R
+EEG
+L A N G U A G E S
+Polish
+English
+German
+Student research Assistant, Computational
+Linguistics Department Universitat Osnabrück
+Nov 2015 — Feb 2016
+- programming linguistic survey/experiment (LimeSurvey)
+- analyzing data (R)
+Student research Assistant, NeuroBioPsychology,
+Universitat Osnabrück
+Aug 2014 — Dec 2017
+- Lab maintenance
+- Participants recruitment
+- Data acquisition (EEG, Eye Tracking)
+- Data preprocessing (R, Matlab, Python)
+- Data analysis (R, Matlab, Python)
+PhD Student, NeuroBioPsychology, Universitat
+Osnabrück
+Jan 2018 — Present
+Supervised by Prof. Peter König
+Osnabrück, Germany
+Osnabrück, Germany
+Osnabrück, Germany
+Associated Researcher, Situated Cognition Research
+Training Group
+Jan 2019 — Present
+Osnabrück/Bochum,
+Germany
+Internship, Federal University of Rio Grande do Norte
+- Brain Institute
+Dec 2019 — Feb 2020
+Natal, Brazil
+Internship with professors: Dráulio Araújo and Maria Bernardete Cordeiro de Sousa.
+- Analysis of EEG data
+PhD Student, Department of Clinical Psychology,
+Vrije Universiteit Amsterdam
+Jan 2021 — Present
+Supervised by Prof. Sander L. Koole & Suzanne Dikker
+Amsterdam, The
+Netherlands
+E D U C A T I O N
+Bachelor of Cognitive Science, Nicolaus Copernicus
+University of Torun
+Oct 2010 — Jan 2014
+Toruń
+Master of Cognitve Science, Universität Osnabrück Apr 2014 — Aug 2017
+Osnabrück, Germany
+PhD in Cognitive Science, Universität Osnabrück Jan 2018 — Present
+Osnabrück, Germany
+PhD in Clinical Psychology, Vrije Universiteit
+Amsterdam
+Jan 2021 — Present
+Amsterdam, The
+Netherlands
+P U B L I C A T I O N S
+Wahn, B., Czeszumski, A., & König, P. (2018). Performance similarities predict
+collective benefits in dyadic and triadic joint visual search. PloS one, 13(1), e0191179.
+Czeszumski, A., Ehinger, B. V., Wahn, B., & König, P. (2019). The social situation affects
+how we process feedback about our actions. Frontiers in psychology, 10, 361.
+Czeszumski, A., Eustergerling, S., Lang, A., Menrath, D., Gerstenberger, M.,
+Schuberth, S., ... & König, P. (2020). Hyperscanning: a valid method to study neural
+inter-brain underpinnings of social interaction. Frontiers in Human Neuroscience,
+14, 39.
+Wahn, B., Czeszumski, A., Labusch, M., Kingstone, A., & König, P. (2020). Dyadic
+and triadic search: benefits, costs, and predictors of group performance. Attention,
+Perception, & Psychophysics, 82(5), 2415-2433.
+Czeszumski A, Gert AL, Keshava A, Ghadirzadeh A, Kalthoff T, Ehinger BV, Tiessen M,
+Björkman M,Kragic D and König P (2021) Coordinating With a Robot Partner Affects
+Neural Processing Related to Action Monitoring. Front. Neurorobot. 15:686010. doi:
+10.3389/fnbot.2021.686010
+Czeszumski, A., Liang, S. H. Y., Dikker, S., König, P., Lee, C. P., & Kelsen, B.
+(2021). Verbally mediated cooperation is consistently associated with inter-brain
+synchrony in frontal and temporoparietal areas: A mini-review and meta-analysis.
+bioRxiv.
+Czeszumski, A., Albers, F., Walter, S., & König, P. (2021). Let Me Make You Happy,
+and I'll Tell You How You Look Around: Using an Approach-Avoidance Task as an
+Embodied Emotion Prime in a Free-Viewing Task. Frontiers in Psychology, 12, 703.
+Pavlov, Y. G., Adamian, N., Appelhoff, S., Arvaneh, M., Benwell, C. S., Beste, C., ... &
+Mushtaq, F. (2021). # EEGManyLabs: Investigating the replicability of influential experiments. Cortex.
+EEG
+Nezami, F. N., Wächter, M. A., Keshava, A., Czeszumski, A., … König, P. (2021, July 12). Talking cars, reality. https://doi.org/10.31234/osf.io/bsjy6
+Lukanov, H., De Palol, M. V.,
+doubtful users - a population study in virtual
+C O N F E R E N C E A N D P U B L I C T A L K S
+Understanding Social Cognition 2017 Lublin, Poland
+Oct 2017
+Conference talk: Does the social situations affect how we process feedback about
+our actions?
+Social cognition in humans and robots Hamburg, Germany
+Sep 2018
+Conference talk: The social situation affects how we process feedback about our
+actions
+Cognitive Science Arena Brixen, Italy
+Feb 2019
+Conference talk: The social situation affects how we process feedback about our
+actions
+AWARD: 2nd prize for the best talk
+Understanding Others: Technical issues related to
+real-time social interaction phenomena: Focus on
+study design and data analysis
+Mar 2019
+Munich, Germany
+Conference talk: The social situation affects how we process feedback about our
+actions
+NeuroPsychoLinguistics Lab Geneva, Switzerland
+Jun 2020
+Lab Seminar talk: Neural underpinnings of social interactions
+Emotion Regulation Lab Amsterdam, The
+Netherlands
+Jun 2020
+Lab Seminar: Neural underpinnings of social interactions
+Neuromatch Online
+Oct 2020
+Conference talk: Hyperscanning: A Valid Method to Study Neural Inter-brain
+Underpinnings of Social Interaction
+Developmental Psychology Lab Vienna
+Nov 2020
+Lab Seminar: Neural underpinnings of social interactions
+Virtual Social Interaction Conference 2021 Jun 2021
+Online
+Conference talk: Coordinating With a Robot Partner Affects Action Monitoring
+Related Neural Processing
+Interpersonal Neuroscience: Connecting People Via
+Their Bodies and Brains
+Jul 2021
+Summer School Lecture: EEG Hyperscanning workshop
+Online
+R E F E R E N C E S
+Prof. Peter König from University of Osnabrück
+pkoenig@uos.de

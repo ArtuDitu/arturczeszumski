@@ -1,0 +1,211 @@
+\usepackage[a4paper,margin=1.55cm,top=1.45cm,bottom=1.6cm]{geometry}
+\usepackage{libertinus}
+\usepackage[default]{sourcesanspro}
+\usepackage{microtype}
+\usepackage{ragged2e}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{enumitem}
+\usepackage[most]{tcolorbox}
+\usepackage{tikz}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{xurl}
+\usepackage{graphicx}
+\usepackage{fontawesome5}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{etoolbox}
+\usepackage[
+  backend=biber,
+  style=authoryear,
+  sorting=ydnt,
+  date=year,
+  doi=true,
+  url=false,
+  eprint=false,
+  isbn=false,
+  giveninits=true,
+  maxbibnames=99,
+  uniquename=false,
+  terseinits=true
+]{biblatex}
+
+\definecolor{cvink}{HTML}{17212B}
+\definecolor{cvaccent}{HTML}{1E5C62}
+\definecolor{cvaccentsoft}{HTML}{EAF2F0}
+\definecolor{cvline}{HTML}{C7D8D4}
+\definecolor{cvmuted}{HTML}{5D6B73}
+\definecolor{cvpaper}{HTML}{F8FAF9}
+
+\hypersetup{
+  colorlinks=true,
+  urlcolor=cvaccent,
+  linkcolor=cvink
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[L]{\footnotesize\sffamily\color{cvmuted} Artur Czeszumski}
+\fancyfoot[R]{\footnotesize\sffamily\color{cvmuted} \thepage}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlist[itemize]{leftmargin=1.1em,itemsep=0.2em,topsep=0.35em,parsep=0pt,partopsep=0pt}
+\setlength{\tabcolsep}{0pt}
+
+\titleformat{\section}
+  {\Large\sffamily\bfseries\color{cvink}}
+  {}
+  {0pt}
+  {}
+  [\vspace{0.25em}\titlerule]
+\titlespacing*{\section}{0pt}{1.2em}{0.75em}
+
+\titleformat{\subsection}
+  {\large\sffamily\bfseries\color{cvink}}
+  {}
+  {0pt}
+  {}
+\titlespacing*{\subsection}{0pt}{0.6em}{0.45em}
+
+\newcommand{\cvnamestyle}{\fontsize{24}{28}\selectfont\sffamily\bfseries\color{cvink}}
+\newcommand{\cvheadlinestyle}{\fontsize{10.5}{13}\selectfont\sffamily\color{cvaccent}}
+\newcommand{\cvdaterange}{\fontsize{9.2}{11}\selectfont\sffamily\bfseries\color{cvaccent}}
+\newcommand{\cvitemtitle}{\fontsize{12}{14}\selectfont\sffamily\bfseries\color{cvink}}
+\newcommand{\cvitemorg}{\fontsize{10.4}{12}\selectfont\sffamily\color{cvink}}
+\newcommand{\cvitemmeta}{\fontsize{9.2}{11}\selectfont\sffamily\color{cvmuted}}
+\newcommand{\cvtalktitle}{\fontsize{11.2}{13.2}\selectfont\sffamily\bfseries\color{cvink}}
+\newcommand{\cvtalkmeta}{\fontsize{9.3}{11.5}\selectfont\sffamily\color{cvmuted}}
+
+\newtcolorbox{cvprofilebox}{
+  enhanced,
+  colback=cvpaper,
+  colframe=cvline,
+  boxrule=0.6pt,
+  arc=6pt,
+  left=1em,
+  right=1em,
+  top=0.95em,
+  bottom=0.95em
+}
+
+\newtcolorbox{cvdetailbox}{
+  enhanced,
+  colback=cvpaper,
+  colframe=cvline,
+  boxrule=0.6pt,
+  arc=6pt,
+  left=0.95em,
+  right=0.95em,
+  top=0.75em,
+  bottom=0.75em
+}
+
+\newtcolorbox{talkbox}{
+  enhanced,
+  colback=white,
+  colframe=cvline,
+  boxrule=0.55pt,
+  arc=5pt,
+  left=0.9em,
+  right=0.9em,
+  top=0.75em,
+  bottom=0.75em,
+  before skip=0.45em,
+  after skip=0.3em
+}
+
+\newcommand{\contactitem}[2]{%
+  \noindent
+  \begin{tabular}{@{}>{\centering\arraybackslash}m{1.75em}@{\hspace{0.55em}}>{\RaggedRight\arraybackslash}m{\dimexpr\linewidth-2.30em\relax}@{}}
+  \contacticonstyle{#1} & \contactvaluestyle{#2}
+  \end{tabular}\par\vspace{0.42em}
+}
+
+\newcommand{\contacticonstyle}[1]{%
+  \tikz[baseline=(icon.center)]{
+    \node[
+      fill=cvaccentsoft,
+      draw=cvline,
+      rounded corners=5pt,
+      minimum width=1.48em,
+      minimum height=1.48em,
+      inner sep=0pt
+    ] (icon) {\raisebox{0pt}[1.1em][1.1em]{\footnotesize\color{cvaccent} #1}};
+  }
+}
+
+\newcommand{\contactvaluestyle}[1]{{\strut\sffamily\fontsize{9.5}{11.5}\selectfont\color{cvink} #1\strut}}
+
+\newcommand{\HeaderLogo}[1]{%
+  \begin{center}
+  \IfFileExists{#1}{\includegraphics[width=0.76\linewidth,keepaspectratio,trim=0 100 0 100,clip]{#1}}{}
+  \end{center}
+}
+
+\newcommand{\cvtag}[1]{%
+  \tikz[baseline=(tag.base)]{
+    \node[
+      fill=cvaccentsoft,
+      draw=cvline,
+      rounded corners=6pt,
+      inner xsep=0.55em,
+      inner ysep=0.28em
+    ] (tag) {\footnotesize\sffamily\color{cvaccent} #1};
+  }\hspace{0.35em}
+}
+
+\newenvironment{cvtimeline}{\par\begingroup}{\par\endgroup}
+
+\newenvironment{TimelineDetailWrap}{\begin{minipage}[t]{\linewidth}\vspace*{0.92em}}{\end{minipage}}
+
+\newcommand{\timelineglyphbase}[2]{%
+  \tikz[baseline=(dot.center)]{
+    \ifstrequal{#1}{1}{\draw[cvline,line width=0.75pt] (0,48pt) -- (0,6.5pt);}{}
+    \ifstrequal{#2}{1}{\draw[cvline,line width=0.75pt] (0,-6.5pt) -- (0,-48pt);}{}
+    \node[circle,draw=cvaccent,fill=white,line width=0.9pt,minimum size=9pt,inner sep=0pt] (dot) at (0,0) {};
+    \node[circle,fill=cvaccent,minimum size=3.4pt,inner sep=0pt] at (0,0) {};
+  }
+}
+
+\newcommand{\TimelineGlyphOnly}{\timelineglyphbase{0}{0}}
+\newcommand{\TimelineGlyphFirst}{\timelineglyphbase{0}{1}}
+\newcommand{\TimelineGlyphMiddle}{\timelineglyphbase{1}{1}}
+\newcommand{\TimelineGlyphLast}{\timelineglyphbase{1}{0}}
+
+\newcommand{\TimelineEntry}[3]{%
+  \noindent
+  \begin{tabularx}{\linewidth}{@{}>{\RaggedLeft\arraybackslash}p{0.395\linewidth}@{\hspace{1.05em}}>{\centering\arraybackslash}m{0.07\linewidth}@{\hspace{1.05em}}p{0.465\linewidth}@{}}
+    #2 & #1 & #3
+  \end{tabularx}\par\vspace{0.35em}
+}
+
+\newcommand{\sectionnote}[1]{%
+  \par\vspace{0.2em}{\footnotesize\sffamily\color{cvmuted}\itshape #1}\par
+}
+
+\renewcommand*{\mkbibnamefamily}[1]{%
+  \ifboolexpr{test {\ifdefstring{\namepartfamily}{Czeszumski}}}
+    {\textbf{#1}}
+    {#1}}
+
+\renewcommand*{\mkbibnamegiven}[1]{%
+  \ifboolexpr{test {\ifdefstring{\namepartfamily}{Czeszumski}}}
+    {\textbf{#1}}
+    {#1}}
+
+\DeclareFieldFormat{doi}{\mkbibacro{DOI}\addcolon\space\href{https://doi.org/#1}{#1}}
+\DeclareFieldFormat[article]{title}{#1}
+\DeclareFieldFormat[misc]{title}{#1}
+\AtEveryBibitem{%
+  \clearfield{issn}%
+  \clearfield{urlyear}%
+  \clearfield{urlmonth}%
+  \clearlist{language}%
+}
+
+\setlength\bibitemsep{0.8\baselineskip}
+\renewcommand{\bibfont}{\normalsize}

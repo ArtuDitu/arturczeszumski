@@ -1,0 +1,82 @@
+aczeszum@gmail.com
++49 1636653289
+Osnabrück, Germany
+Date of birth
+06.01.1990
+Nationality
+Polish
+Dr. Artur
+Czeszumski
+Profile
+Artur Czeszumski has a Ph.D. degree in Cognitive Science and Psychology from
+the Vrije Universiteit Amsterdam & University of Osnabrück. His research topics
+include social, computational, and cognitive neuroscience, cognitive psychology, and
+embodied cognition. He has a strong background in data analysis (data modeling, data
+visualization, and communication). Currently, he works as a post-doctoral researcher
+at the University of Bielefeld. His work is focused on building an open database and
+dashboard to perform live analysis on many datasets.
+Education/Employment History
+Languages
+Polish
+English
+Post-Doc at University Bielefeld, Bielefeld
+German
+(Germany)
+01/2024—Present
+Creating a database and live dashboard to combine hundreds of behavioral,
+neurophysiological, and physiological datasets. The database will be used
+to meta-analyse the data and explore it with living analysis (dashboard).
+PhD at Vrije Universiteit Amsterdam and
+University of Osnabrück, Amsterdam/Osnabrück
+(Netherlands/Germany)
+01/2018—08/2023
+Research on human cooperative behavior and its neural markers
+10 peer-reviewed scientific publications in top-tier journals
+Google Scholar
+Data
+programming - R, MATLAB, Python, SQL
+Google Docs, MS Office,
+data modeling and visualization
+Communication
+over 30 presentations at international conferences
+Team leading/Supervision
+over 30 BSc/MSc students supervised
+15 BSc/MSc courses taught
+International collaborations:
+KANSEI Sciences Research, Tokyo, Japan
+Ngogo field station, Uganda
+Brain Institute, Natal, Brazil
+Perception, and Learning Lab, KTH Stockholm, Sweden
+Skills
+Data Analysis/Statistics
+R
+Matlab
+Python
+SQL
+Communication
+Ability to Multitask
+Fast Learner
+Leadership Skills
+Communication Skills
+Time-series analysis (EEG/eye-tracking)
+Google Docs/Sheets/Slides
+Time Management
+Microsoft Office
+Ability to Work in a Team
+Flexibility
+Links
+Personal Website
+LinkedIn
+Google Scholar
+Twitter
+Hobbies
+Football Analytics
+Collecting music records
+Traveling
+Meditation
+Football Data Analyst Intern at Double Pass,
+Mechelen (Belgium)
+09/2023—02/2024
+Data-driven decisions in Football
+Developing masterclasses focused on the use of data in the football
+industry

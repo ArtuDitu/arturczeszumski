@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: _site
+  pre-render: python3 scripts/build_timeline.py
   render:
     - index.qmd
     - about.qmd

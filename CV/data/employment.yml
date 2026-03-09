@@ -1,0 +1,188 @@
+- role: Data and Cognition Scientist
+  organization: Legia Warszawa
+  location: Warsaw, Poland
+  date_label: Feb 2025 - Present
+  category: Research & Development
+  highlights:
+    - Building and maintaining data infrastructure for academy performance workflows.
+    - Developing predictive models and cognitive profiling tools for player development.
+    - Supporting coaches and decision-makers with structured data pipelines and analysis.
+  tags:
+    - Cognitive profiling
+    - Cognitive tests
+    - Data Analysis
+    - Data infrastructure
+    - Predictive modelling
+    - Psychological tests
+    - Football analytics
+
+- role: Affiliated Resaercher
+  organization: 
+  location: Maastricht, The Netherlands
+  date_label: Mar 2026 - Present
+  category: Research
+  highlights:
+    - Analysing EEG Hyperscanning Data
+  tags:
+    - EEG
+    - Preprocessing
+    - Hyperscanning
+
+- role: Lecturer
+  organization: University of Warsaw
+  location: Warsaw, Poland
+  date_label: Sep 2025 - Present
+  category: Education
+  highlights:
+    - Teaching statistics, programming (Python), and data analysis.
+  tags:
+    - Teaching
+    - Programming
+    - Python
+    - Statistics
+    - Data Analysis
+
+
+- role: Postdoctoral Researcher
+  organization: University of Bielefeld
+  location: Bielefeld, Germany
+  date_label: Jan 2024 - Sep 2024
+  category: Research
+  highlights:
+    - Contributed to developing an open database and live dashboard for behavioral and neurophysiological datasets.
+    - Advanced large-scale statistical modelling, visualization, and living analysis workflows.
+  tags:
+    - Databases
+    - Dashboards
+    - Statistical modelling
+    - Data visualization
+
+- role: Football Data Analyst Intern
+  organization: Double Pass
+  location: Mechelen, Belgium
+  date_label: Sep 2023 - Feb 2024
+  category: Sport analytics
+  highlights:
+    - Provided data-driven decision support for football development programs.
+    - Designed masterclasses on the use of data in the football industry.
+  tags:
+    - Football development
+    - Decision support
+    - Workshops
+    - Industry translation
+
+- role: Joint PhD Researcher
+  organization: Vrije Universiteit Amsterdam and University of Osnabrück
+  location: Amsterdam, Netherlands / Osnabrück, Germany
+  date_label: Jan 2018 - Dec 2023
+  category: Research
+  highlights:
+    - Researched cooperative behavior and neural markers of social interaction.
+    - Published peer-reviewed work in cognitive neuroscience, psychology, and human-machine interaction.
+    - Presented internationally, taught more than fifteen courses, and supervised more than thirty students.
+  tags:
+    - EEG
+    - Eye-tracking
+    - Hyperscanning
+    - Meta-analysis
+    - Writing
+    - Project Management
+    - Data Analysis
+
+- role: Researcher
+  organization: Center for Brain, Mind and KANSEI Sciences Research
+  location: Tokyo, Japan
+  date_label: Feb 2022 - Jun 2022
+  category: Research visit
+  highlights:
+    - Developed networking solutions for EEG hyperscanning over cloud-based setups.
+  tags:
+    - EEG
+    - Networking
+    - Hyperscanning
+    - International collaboration
+
+- role: Research Visit
+  organization: Ngogo Field Station
+  location: Ngogo, Uganda
+  date_label: Dec 2021 - Jan 2022
+  category: Field research
+  highlights:
+    - Studied research practice on wild chimpanzee social interaction in a field context.
+  tags:
+    - Field research
+    - Social interaction
+    - Comparative cognition
+
+
+- role: Internship
+  organization: Federal University of Rio Grande do Norte, Brain Institute
+  location: Natal, Brazil
+  date_label: Dec 2019 - Feb 2020
+  category: Internship
+  highlights:
+    - Analysed EEG time-series data in collaboration with local research teams.
+  tags:
+    - EEG
+    - Time-series analysis
+    - Signal processing
+
+- role: Research Visit
+  organization: Perception and Learning Lab, KTH Stockholm
+  location: Stockholm, Sweden
+  date_label: May 2019
+  category: Research visit
+  highlights:
+    - Conducted a study on cooperative human-robot interaction.
+  tags:
+    - Human-robot interaction
+    - Cooperative behavior
+
+- role: Associated Researcher
+  organization: Situated Cognition Research Training Group
+  location: Osnabrück / Bochum, Germany
+  date_label: Jan 2019 - Dec 2023
+  category: Research network
+  highlights:
+    - Collaborated in an interdisciplinary research training environment on situated cognition.
+  tags:
+    - Situated cognition
+    - Interdisciplinary research
+
+- role: Student Research Assistant
+  organization: NeuroBioPsychology, University of Osnabrück
+  location: Osnabrück, Germany
+  date_label: Aug 2014 - Dec 2017
+  category: Research support
+  highlights:
+    - Managed lab operations, participant recruitment, and multimodal data acquisition.
+    - Preprocessed and analysed EEG, eye-tracking, and behavioral data.
+  tags:
+    - Lab operations
+    - EEG
+    - Eye tracking
+    - R / MATLAB / Python
+
+- role: Student Research Assistant
+  organization: Computational Linguistics, University of Osnabrück
+  location: Osnabrück, Germany
+  date_label: Nov 2015 - Feb 2016
+  category: Research support
+  highlights:
+    - Programmed survey and experiment workflows in LimeSurvey and analysed results in R.
+  tags:
+    - Experiments
+    - R
+    - Survey programming
+
+- role: IT Assistant
+  organization: United Nations COP 19
+  location: Warsaw, Poland
+  date_label: Oct 2013 - Dec 2013
+  category: Operations
+  highlights:
+    - Supported hardware, software, and communications troubleshooting during the conference.
+  tags:
+    - IT support
+    - Troubleshooting
+    - Event operations

@@ -1,0 +1,550 @@
+ARTUR CZESZUMSKI
+ASSISTANT PROFESSOR APPLICANT
+D E T A I L S
+EMAIL
+aczeszum@gmail.com
+DATE OF BIRTH
+06.01.1990
+NATIONALITY
+Polish
+L I N K S
+Personal Website
+P R O F I L E
+Artur Czeszumski is a Ph.D. Candidate in Cognitive Science at the University
+of Osnabrück, and Clinical Psychology at the Vrije Universiteit Amsterdam.
+His research topics include social, computational, and cognitive neuroscience,
+cognitive and clinical psychology, and embodied cognition. During his Ph.D., he
+focused on studying cooperative behavior, and currently, he studies behavioral and
+neural foundations of dyadic cooperative decision making.
+E X E C U T I V E S U M M A R Y
+Research Gate
+Google Scholar
+Twitter
+Open Science Framework
+GitHub
+LinkedIn
+Education highest degree - Joint Ph.D. (defense is planned for the end of 2022)
+Present employment - Research Associate at UOS
+Published articles/ first author/ submitted - 10/5/1
+Citations total / 2021 - 223 /105
+Peer-reviews 25
+Teaching - 19
+Supervision - 33
+Conference talks - 12
+Poster presentations - 21
+Summer Schools - 9
+L A N G U A G E S
+Polish
+English
+German
+S K I L L S
+R
+Matlab
+Data Analysis
+EEG
+Teaching
+Ability to Multitask
+Fast Learner
+S C I E N T I F I C E M P L O Y M E N T H I S T O R Y
+PhD Student, Vrije Universiteit Amsterdam Jan 2021 — Present
+Clinical Psychology Department
+Supervised by Prof. Sander L. Koole & Dr. Suzanne Dikker
+Amsterdam, The
+Netherlands
+PhD Student, University of Osnabrück Jan 2018 — Present
+Institute of Cognitive science
+Supervised by Prof. Peter König
+Osnabrück, Germany
+Associated Researcher, Situated Cognition Research
+Training Group
+Jan 2019 — Present
+Osnabrück/Bochum,
+Germany
+Internship, Federal University of Rio Grande do Norte
+- Brain Institute
+Natal, Brazil
+Dec 2019 — Feb 2020
+Leadership Skills
+Internship with professors: Dráulio Araújo and Maria Bernardete Cordeiro de Sousa.
+- Analysis of EEG data
+Communication Skills
+Research visit, KTH Stockholm
+May 2019
+Student research Assistant, NeuroBioPsychology,
+University of Osnabrück
+Aug 2014 — Dec 2017
+Osnabrück, Germany
+Student research Assistant, Computational
+Linguistics Department University of Osnabrück
+Nov 2015 — Feb 2016
+Osnabrück, Germany
+E D U C A T I O N
+Joint Ph.D. in Cognitive Science and Clinical
+Psychology, University of Osnabrück & Vrije
+Universiteit Amsterdam
+Jan 2018 — Present
+Osnabrück, Germany
+& Amsterdam, The
+Netherlands
+Master of Cognitve Science, University of Osnabrück Apr 2014 — Aug 2017
+Osnabrück, Germany
+Bachelor of Cognitive Science, Nicolaus Copernicus
+University of Torun
+Oct 2010 — Jan 2014
+Toruń, Poland
+P U B L I C A T I O N S
+Wahn, B., Czeszumski, A., & König, P. (2018). Performance similarities predict
+collective benefits in dyadic and triadic joint visual search. PloS one, 13(1), e0191179.
+Czeszumski, A., Ehinger, B. V., Wahn, B., & König, P. (2019). The social situation
+affects how we process feedback about our actions. Frontiers in psychology, 10, 361.
+Czeszumski, A., Eustergerling, S., Lang, A., Menrath, D., Gerstenberger, M.,
+Schuberth, S., ... & König, P. (2020). Hyperscanning: a valid method to study neural
+inter-brain underpinnings of social interaction. Frontiers in Human Neuroscience,
+14, 39.
+Wahn, B., Czeszumski, A., Labusch, M., Kingstone, A., & König, P. (2020). Dyadic
+and triadic search: benefits, costs, and predictors of group performance. Attention,
+Perception, & Psychophysics, 82(5), 2415-2433.
+Czeszumski A, Gert AL, Keshava A, Ghadirzadeh A, Kalthoff T, Ehinger BV, Tiessen M,
+Björkman M,Kragic D and König P (2021) Coordinating With a Robot Partner Affects
+Neural Processing Related to Action Monitoring. Front. Neurorobot. 15:686010. doi:
+10.3389/fnbot.2021.686010
+Czeszumski, A., Liang, S. H. Y., Dikker, S., König, P., Lee, C. P., Koole, S. L., & Kelsen,
+B. (2022). Cooperative Behavior Evokes Interbrain Synchrony in the Prefrontal
+and Temporoparietal Cortex: A Systematic Review and Meta-Analysis of fNIRS
+Hyperscanning Studies. Eneuro, 9(2).
+Czeszumski, A., Albers, F., Walter, S., & König, P. (2021). Let Me Make You Happy,
+and I'll Tell You How You Look Around: Using an Approach-Avoidance Task as an
+Embodied Emotion Prime in a Free-Viewing Task. Frontiers in Psychology, 12, 703.
+Pavlov, Y. G., Adamian, N., Appelhoff, S., Arvaneh, M., Benwell, C. S., Beste,
+C., Czeszumski, A., ... & Mushtaq, F. (2021). # EEGManyLabs: Investigating the
+replicability of influential EEG experiments. Cortex.
+Derakhshan, S., Nezami, F. N., Wächter, M. A., Czeszumski, A., Keshava, A., Lukanov,
+H., ... & König, P. (2022). Talking Cars, Doubtful Users—A Population Study in Virtual
+Reality. IEEE Transactions on Human-Machine Systems.
+Solzbacher J, Czeszumski A, Walter S and König P (2022) Evidence for the
+embodiment of the automatic approach bias. Front. Psychol. 13:797122. doi:
+10.3389/fpsyg.2022.797122
+Walter, J. L., Zerbe, J. A., Schmidt, V., Tiemann, L., Mildt, M., Pätzold, F., … Czeszumski,
+A. (2022, July 8). LightNet: a networking library to perform multi-participant
+experiments in Virtual Reality. https://doi.org/10.31234/osf.io/6a8t3
+P E E R - R E V I E W
+I peer-reviewed 25 different publications for different journals (among others:
+Neuroimage, IEEE, Neuroscience of Consciousness, Journal of Cognitive
+Neuroscience). The complete list is available at:
+https://publons.com/researcher/3478822/artur-czeszumski/
+O N G O I N G R E S E A R C H
+Mindfulness - EEG Federal University of
+Rio Grande do Norte,
+Natal, Brazil
+We are studying neural correlates (EEG) of a mindfulness intervention on attention
+(oddball). I analyzed behavioral and neurophysiological data. UFRN will handle the
+submission. My contributions are completed.
+Physiological synchrony during Emotional Sharing Vrije Universiteit
+Amsterdam, The
+Netherlands
+We are studying physiological synchrony during emotional sharing. The data
+collection is finalized, and the manuscript is in progress. I expect to submit it in 2022.
+Tactile EEG University of
+Osnabrück
+We are comparing neural responses (EEG) with visual and tactile attention task
+(oddball). The data collection is finalized, and analyses are ongoing. I expect to
+finalize the manuscript in 2022.
+EEGManyLabs University of
+Osnabrück
+The international project focused on the replication of the most impactful EEG-ERP
+research. We developed the experimental script used in multiple labs involved in
+the replication project. The registered report is in the final stage and will soon be
+submitted to Cortex.
+Synesthesia EEG Federal University of
+Rio Grande do Norte,
+Natal, Brazil
+We are studying neural correlates (EEG) of pharmacologically induced synesthesia.
+The data will be collected in the first quarter of 2022.
+Pharmacology Hyperscanning Maastricht University
+We are studying the influence of pharmacological intervention on inter-brain
+synchrony during motor coordination task. The ethics application has been
+submitted, and we are awaiting the decision.
+T E A C H I N G
+University of Osnabrück:
+1. Action & Cognition - WiSe 2022/23
+2. EEG-ERP for beginners - WiSe 2022/23
+3. Designing and conducting an EEG study in VR - SoSe 2022
+4. Begleitseminar zum Studienprojekt: Dyadic Decision Making - DDM - WiSe
+2021/22
+5. Social interactions in VR WiSe 2021/22 - evaluation attached
+6. Study Project: Dyadic Decision Making - DDM (Part II) - WiSe 2021/22
+7. Begleitseminar zum Studienprojekt: Dyadic Decision Making - DDM - SoSe
+2021
+8. Study Project: Dyadic Decision Making - DDM (Part I) - SoSe 2021
+9. Begleitseminar zum Studienprojekt Hyperscanning - WiSe 2020/21
+10. Dyadic interactions in VR - WiSe 2020/21 - evaluation attached
+11. Quest (Independent Study Course) - WiSe 2020/21
+12. Study Project: Hyperscanning (Part II) - WiSe 2020/21
+13. Quest (Independent Study Course) - SoSe 2020
+14. Study Project: Hyperscanning (Part I) - SoSe 2020
+15. Interdisciplinary Course: Hyperscanning -WiSe 2019/20
+16. Quest - WiSe 2019/20
+17. Advanced Topics in Action and Cognition - SoSe 2018
+18. Statistical Rethinking Reading Club - SoSe 2018
+Vrije Universiteit Amsterdam:
+1. Interpersonal Neuroscience: Connecting People Via Their Bodies and Brains,
+Summer School - Hyperscannig EEG workshop, 2021
+S U P E R V I S I O N
+MSc thesis: 10
+BSc thesis: 15
+Research assistants: 8
+MSc thesis
+1. Susanne Schuberth, Is performance in finger tapping synchronization related
+to between brain phase locking across motor cortices?, 2019, University of
+Osnabrück
+2. Rebecca Jensen Scott, Investigating the Differential Impact of Meditation
+Type on Positive Emotions: Perspectives from psychology and neuroscience,
+2020, University of Osnabrück
+3. Alix Weidema, Interbrain synchrony and relational depth during emotional
+sharing, 2021, Vrije Universiteit Amsterdam
+4. Daniele Franzoi, Self-organization of physiological synchrony: Emotional
+sharing as heart’s coupling promotion, 2021, Vrije Universiteit Amsterdam
+5. Isa van den Brand, Empathy as a Tool for Interpersonal Synchrony: The
+Influence of Empathy on the Therapeutic Alliance, 2021, Vrije Universiteit
+Amsterdam,
+6. Ivar Rambags, Psychedelics as Potential Tools for Studying the Social Brain
+in Humans: a systematic scoping review of the literature, 2021, University of
+Amsterdam
+7. Ieshia Hickey-Williams, Social interactions in Virtual Reality, Ongoing,
+University of Osnabrück
+8. Til Kalthoff, Inter-brain synchrony during emotional sharing, Ongoing,
+University of Osnabrück & New York University
+9. Rabia Dilawar, Comparing Visual and Tactile oddball Paradigm on the basis of
+N200 and P300 components, An EEG Study, A Pilot study, Ongoing, University
+of Osnabrück
+10. Elisa Percolla, Comparing Visual and Tactile oddball Paradigm (EEG),
+Ongoing, University of Osnabrück
+BSc thesis
+1. Susanne Niehaus, Coordination Strategies in a Joint Action Multiplayer Study,
+2018, University of Osnabrück
+2. Anne Lang, The Natural Emergence of Leader-Follower Roles during
+Spontaneous Sensorimotor Synchronization and its Neural Correlates, 2019,
+University of Osnabrück
+3. Hannah Westerhagen, Looking for neural correlates of behavioral synchrony:
+An analysis of EEG hyperscanning data, 2019, University of Osnabrück
+4. Melanie Wiehe, The social situation affects how we process feedback about
+our actions in the frequency domain, 2019, University of Osnabrück
+5. Davide Valenti, Computational Models of Bounded Rationality, 2019,
+University of Osnabrück
+6. Nina Seiffert, Investigating the Relation between Brain Similarity and
+Interpersonal Synchronization, 2019, University of Osnabrück
+7. Jonathan Loos, Replacing Mouse Control by Eye Tracking with the Pupil Labs
+Eye Tracker in a Joint Visual Search Task, 2019, University of Osnabrück
+8. Réka Enz, Identifying Impairment in Task-Related Functional Brain Networks
+in Schizophrenia A task-merging approach using fMRI, 2019, University of
+Osnabrück & The University of British Columbia
+9. Max Tiessen, Investigating inter-brain oscillatory synchronization via Wavelet
+Coherence Analysis, 2019, University of Osnabrück
+10. David Menrath, Exogenous Perturbation Stimuli Disturb Interbrain
+Phase-Locking during Joint Action EEG Hyperscanning, 2021, University of
+Osnabrück
+11. Victoria Benhauser, Investigation of Vibrotactile Oddball Paradigm
+Preprocessing and initial analysis of EEG Data, 2021, University of Osnabrück
+12. Olivia Rapp, Beyond Default Mode: Large-scale Brain Networks in Post
+Traumatic Stress Disorder and Mindfulness, 2021, University of Osnabrück
+13. Rosina Zeller, ERSP analysis in a tactile augmentation experiment, Ongoing,
+University of Osnabrück
+14. Florian Pätzold, Dyadic visual search in Virtual Reality, Ongoing, University of
+Osnabrück
+15. Shari Hiltner, Hyperscanning during Psychotherapy, Ongoing, University of
+Osnabrück & Universidad Diego Portales (Santiago, Chile)
+Research assistants
+1. Anne Lang
+2. Milad Rouygari
+3. Rosina Zollner
+4. Dirk Gütlin
+5. Rosa Großmann
+6. Elisa Percolla
+7. Maria Sokotushchenko
+8. Max Tiessen
+C O N F E R E N C E A N D P U B L I C T A L K S
+ESCAN 2022 Vienna, Austria
+Jul 2022
+Conference talk
+2nd Person Approach To Studying Cooperative Social Interactions
+RTG Situated Cognition Workshop Oct 2021
+Conference talk
+2nd Person Approach To Studying Social Cognition
+Osnabrück, Germany
+Interpersonal Neuroscience: Connecting People Via
+Their Bodies and Brains
+Jul 2021
+Summer School Lecture
+EEG Hyperscanning workshop
+Online
+Virtual Social Interaction Conference 2021 Jun 2021
+Conference talk
+Coordinating With a Robot Partner Affects Action Monitoring Related Neural
+Processing
+Online
+Developmental Psychology Lab Vienna
+Nov 2020
+Lab Seminar
+Neural underpinnings of social interactions
+Neuromatch Online
+Oct 2020
+Conference talk
+Hyperscanning: A Valid Method to Study Neural Inter-brain Underpinnings of Social
+Interaction
+NeuroPsychoLinguistics Lab Geneva, Switzerland
+Jun 2020
+Lab Seminar
+Neural underpinnings of social interactions
+RTG Situated Cognition Workshop Jul 2019
+Conference talk
+The social situation affects how we process feedback about our actions
+Osnabrück, Germany
+Understanding Others: Technical issues related to
+real-time social interaction phenomena: Focus on
+study design and data analysis
+Mar 2019
+Conference talk
+Munich, Germany
+The social situation affects how we process feedback about our actions
+International Interdisciplinary Computational
+Cognitive Science Spring School
+Mar 2019
+Conference talk
+The social situation affects how we process feedback about our actions
+Freiburg, Germany
+Cognitive Science Arena Brixen, Italy
+Feb 2019
+Conference talk
+The social situation affects how we process feedback about our actions
+AWARD: 2nd prize for the best talk
+Social cognition in humans and robots Sep 2018
+Conference talk
+The social situation affects how we process feedback about our actions
+Hamburg, Germany
+Understanding Social Cognition 2017 Lublin, Poland
+Oct 2017
+Conference talk
+Does the social situations affect how we process feedback about our actions?
+C O N F E R E N C E P O S T E R S
+SANS 2022 Online
+May 2022
+Cooperative Behavior Evokes Interbrain Synchrony in the Prefrontal and
+Temporoparietal Cortex: A Systematic Review and Meta-Analysis of fNIRS
+Hyperscanning Studies
+ESCAN 2021 Online
+Jun 2021
+Hyperscanning: A valid method to study neural underpinnings of social interaction
+ENCODS 2021 Online
+Jun 2021
+Hyperscanning: A valid method to study neural underpinnings of social interaction
+SANS 2021 Online
+May 2021
+Hyperscanning: A valid method to study neural underpinnings of social interaction
+MindBrainBody Symposium Online
+Mar 2021
+Hyperscanning: A valid method to study neural underpinnings of social interaction
+AWARD: the best poster
+FENS 2020 Online
+Jul 2020
+Hyperscanning: A valid method to study neural underpinnings of social interaction
+I received a grant for accommodation and travel that was changed into waived
+fee due to Covid.
+Computational Cognition 2019 Osnabrück, Germany
+Oct 2019
+Investigating neural correlates of interparticipant movement synchronization using
+EEG hyperscanning
+Joint Action Meeting: JAM VIII Jul 2019
+The social situation affects how we process feedback about our actions
+Genoa, Italy
+From self-knowledge to knowing others: Insights
+from psychological and neuroscientific tools
+Nov 2018
+The social situation affects how we process feedback about our actions
+Brussels, Belgium
+Gentner Symposium "Understanding Others: From
+Psychological Concepts to Neural Mechanisms"
+Oct 2018
+Jerusalem, Israel
+Dynamics of feedback processing in cooperative and competitive situations.
+I received a traveling and accommodation grant.
+3rd International Mobile Brain/Body Imaging
+Conference
+Jul 2018
+Berlin, Germany
+Dynamics of feedback processing in cooperative and competitive situations.
+2nd Conference of the DFG-RTG Situated Cognition Bochum, Germany
+Jun 2018
+Does the social situations affect how we process feedback about our actions?
+MeeTo 2018: from moving bodies to interactive minds May 2018
+Does the social situations affect how we process feedback about our actions?
+Turin, Italy
+6th MindBrainBody Symposium Berlin, Germany
+Mar 2018
+Does the social situations affect how we process feedback about our actions?
+Interdisciplinary College (IK) 2018 Möhnesee-Günne ,
+Germany
+Mar 2018
+Does the social situations affect how we process feedback about our actions?
+2nd Workshop:Agent-Specificities and
+Relationships in Social Interactions
+Feb 2018
+Cologne, Germany
+Does the social situations affect how we process feedback about our actions?
+Donders Discussion Nijmegen, The
+Netherlands
+Oct 2017
+Does the social situations affect how we process feedback about our actions?
+Joint Action Meeting: JAM VII Jul 2017
+London, United
+Kingdom
+Does the social situations affect how we process feedback about our actions?
+OCCAM/socSMCs Osnabrück, Germany
+Jul 2017
+Does the social situations affect how we process feedback about our actions?
+ICMC: International Conference on Multimodal
+Communication: Developing New Theories and
+Methods
+Osnabrück, Germany
+Jun 2017
+Does the social situations affect how we process feedback about our actions?
+KogWis 2016: Space for Cognition 13th Biannual
+Conference of the German Society for Cognitive
+Science
+Bremen, Germany
+Sep 2016
+Learned knowledge about the co-actor's behavior influences performance in a joint
+visuomotor task.
+S U M M E R S C H O O L S
+2021 Virtual EEGLAB Workshop Online
+Jun 2021
+Good Scientific Practices in EEG and MEG research Oct 2020
+Online
+Summer School in Primate Cognitive Neuroscience Jul 2019 — Aug 2019
+Bad Bevensen,
+Germany
+International Interdisciplinary Computational
+Cognitive Science Spring School
+Mar 2019
+Freiburg, Germany
+Berlin | Oxford Summer School on Open,
+Transparent, and Reproducible Research in the Life
+Sciences
+Sep 2018
+Berlin, Germany
+Radbound Summer School, Analyzing Neural Time
+Series
+Aug 2018
+Nijmegen, The
+Netherlands
+Radbound Summer School, Linear Algebra for
+Neuroscientists
+Aug 2018
+Nijmegen, The
+Netherlands
+Interdisciplinary College 2018 Me, my Self, and I Möhnesee-Günne ,
+Germany
+Mar 2018
+Interdisciplinary College 2017 Creativity and
+Intelligence in Brains and Machines
+Mar 2017
+Möhnesee-Günne ,
+Germany
+L A B V I S I T S
+Center for Brain, Mind and KANSEI Sciences
+Research
+Tokyo & Hiroshima
+Universities
+Apr 2022 — Jun 2022
+We worked on developing a networking solution for collecting EEG hyperscanning
+data via the internet cloud. The group is led by Assistant Prof. Maro Machizawa.
+Ngogo field station Uganda
+Dec 2021 — Jan 2022
+Research visit focused on learning about research conducted on wild chimpanzees
+with a focus on social interactions
+Brain Institute, UFRN Natal, Brazil
+Dec 2019 — Feb 2020
+I worked under the supervision of Prof. Draulio Araujo.
+• I worked on analyzing EEG data from depressed patients in a clinical trial using
+Ayahuasca.
+• I worked on EEG data in the project focused on the influence of mindfulness
+meditation training on attention.
+Robotics, Perception, and Learning Lab, KTH Stockholm, Sweden
+May 2019
+I worked under the supervision of Prof. Danica Kragic.
+We conducted a study on human-robot interaction with a focus on human
+coordination behavior and its neural underpinnings
+A W A R D S
+Award for the best poster presentation Berlin, Germany
+Mar 2021
+Mind Brain Body Symposium
+Hyperscanning: A valid method to study neural underpinnings of social interaction
+FENS 2020 - accommodation and travel grant
+Jul 2020
+I received a grant for accommodation and travel that was changed into waived fee
+due to covid pandemic
+Hyperscanning: A valid method to study neural underpinnings of social interaction)
+2nd prize for the best talk Feb 2019
+Cognitive Science Arena
+The social situation affects how we process feedback about our actions
+Brixen, Italy
+Gentner Symposium - accommodation and travel
+Jerusalem, Israel
+grant
+Oct 2018
+Gentner Symposium "Understanding Others: From Psychological Concepts to
+Neural Mechanisms"
+Dynamics of feedback processing in cooperative and competitive situations.
+G R A N T S
+During my studies, I've not yet acquired third-party funds on my own. However, I
+was involved in all steps of the procedures. I helped to develop ideas and prepare
+the grant proposal for two Niedersächsischen Innovationsförderprogramms
+für Forschung und Entwicklung in Unternehmen (NBank) grants: EyeTrax
+(in collaboration with company MindQ), and SmartFi (in collaboration with
+company Holocline). I also prepared mid-term and final reports for the
+H2020-FETPROACT-2014 641321-socSMCs grant and presented the results to the EU
+commission. Thus, I had experienced all aspects of acquiring grants.
+O P E N S C I E N C E
+I firmly believe that open science practices should be increasingly adapted in
+cognitive neuroscience. That is why I actively participate in two international
+projects that aim to address the reproducibility level of EEG research. In the
+EEGManyLabs project, we replicate the most impactful EEG-ERP research. I lead the
+replication of one study at the University of Osnabrück. In the EEGManyPipelines
+project, we investigate the impact of different preprocessing and analysis pipelines
+on EEG results. I lead preprocessing and analysis of one dataset at the University of
+Osnabrück. Furthermore, I share online data and analysis code in projects where I
+am a lead investigator. I will comply with open science principles to the best of my
+abilities in my future work.
+S K I L L S
+Teaching
+I have experience teaching and supervising many students. I have taught small
+and large courses with a lot of success. Mainly, I am proud of my experience
+of one-on-one supervision for BSc and MSc projects. I always try to elevate my
+students while learning from their questions. On multiple occasions, my teaching
+led to developing scientific manuscripts by my students (LightNET - networking
+solution for performing dyadic VR experiments, comparison of the performance of
+automated EEG preprocessing pipelines).
+EEG
+I have a great understanding of EEG data acquisition in stationary and mobile
+settings. I am an expert in performing simple and advanced EEG analyses
+(ERP, ERSP, time-frequency, TFCE, unFOLD, synchronization, hyperscanning).
+Furthermore, I have offered help to all new students who would like to learn these
+methods for many years.
+Programming
+I have an excellent command of R and MATLAB. I use the first one for statistical
+analysis and computational modeling. I use the second to pre-process and analyze
+EEG data. I believe that programming is a crucial skill for cognitive science students,
+which I am constantly trying to improve and offer my help to students making their
+first steps with coding.
+Science communication
+I genuinely love meeting and discussing science with other scientists. That is why
+I engaged with an above-average conference attendance rate during my Ph.D.
+Giving many talks and poster presentations allowed me to develop excellent skills
+in science communication.
+R E F E R E N C E S
+Prof. Peter König from University of Osnabrück
+pkoenig@uos.de
+Prof. Sander L. Koole from Vrije Universiteit
+Amsterdam
+s.l.koole@vu.nl
+Dr. Suzanne Dikker from New York University
+sdikker@gmail.com

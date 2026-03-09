@@ -1,0 +1,17 @@
+groups:
+  - title: Peer-reviewed articles
+    file_slug: peer-reviewed
+    keys:
+      - huang2025choice
+      - kelsen2025exploring
+      - czeszumski2022cooperative
+      - derakhshan2022talking
+      - solzbacher2022evidence
+      - walter2022lightnet
+      - czeszumski2021coordinating
+      - czeszumski2021let
+      - pavlov2021eegmanylabs
+      - czeszumski2020hyperscanning
+      - wahn2020dyadic
+      - czeszumski2019social
+      - wahn2018performance

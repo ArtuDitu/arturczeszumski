@@ -1,0 +1,47 @@
+name: Dr Artur Czeszumski
+headline: Data Scientist | Cognitive Neuroscientist | Lecturer
+location: Warsaw, Poland
+profile:
+  Data scientist and cognitive neuroscientist with dual PhDs in Cognitive Science
+  and Psychology. Works across football analytics, behavioral data,
+  neurophysiology, and higher education. Combines rigorous experimental methods,
+  statistical modelling, and data infrastructure to support decisions in both
+  academic and applied settings.
+focus:
+  - Predictive modelling
+  - Cognitive profiling
+  - Behavioral and neurophysiological data
+  - Experimental design
+  - Data analysis and infrastructure
+contacts:
+  - label: Location
+    icon: map-marker-alt
+    value: Warsaw, Poland
+  - label: Phone
+    icon: phone-alt
+    value: "+48 725 380 224"
+    link: "tel:+48725380224"
+  - label: Email
+    icon: envelope
+    value: aczeszum@gmail.com
+    link: "mailto:aczeszum@gmail.com"
+  - label: Website
+    icon: globe
+    value: arturczeszumski.com
+    link: "https://artuditu.github.io/arturczeszumski/"
+  - label: LinkedIn
+    icon: linkedin-in
+    value: dr-artur-czeszumski
+    link: "https://www.linkedin.com/in/dr-artur-czeszumski-88ba8994/"
+  - label: Scholar
+    icon: graduation-cap
+    value: Google Scholar
+    link: "https://scholar.google.com/citations?user=mcd0HH8AAAAJ&hl=en"
+  - label: GitHub
+    icon: github
+    value: ArtuDitu
+    link: "https://github.com/ArtuDitu"
+  - label: X
+    icon: twitter
+    value: "@aczeszum"
+    link: "https://x.com/aczeszum"
