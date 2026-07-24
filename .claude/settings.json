@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(quarto render *)",
+      "Bash(pdftotext output/cv.pdf -)",
+      "Bash(python3 -c ' *)",
+      "Bash(cp CV/output/cv.pdf assets/cv.pdf && ls -la assets/cv.pdf)",
+      "Bash(python3 scripts/build_timeline.py)"
+    ],
+    "additionalDirectories": [
+      "/Users/artur/Dropbox/WebPage/CV/output"
+    ]
+  }
+}

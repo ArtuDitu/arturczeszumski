@@ -1,3 +1,20 @@
+- role: Product Analyst
+  organization: Allegro
+  location: Warsaw, Poland
+  date_label: Jul 2026 - Present
+  category: Product & Data
+  highlights:
+    - Delivering analysis for the A/B testing platform, from experiment design to results interpretation.
+    - Ensuring statistical safeguarding of experiments, including power analysis and guarding against false positives.
+  tags:
+    - A/B Testing
+    - Statistical Safeguarding
+    - SQL
+    - Cloud Computing
+    - AI
+    - Experimentation
+    - Data Analysis
+
 - role: Data and Cognition Scientist
   organization: Legia Warszawa
   location: Warsaw, Poland
